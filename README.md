@@ -16,6 +16,9 @@ This repository is dedicated to preparing subtitles as part of working with fore
     *   [6. Sentence Merging](#6-sentence-merging)
     *   [7. Translation](#7-translation)
     *   [8. Verification](#8-verification)
+*   [Notes](#notes)
+*   [Kardenwort Ecosystem](#kardenwort-ecosystem)
+*   [License](#license)
 *   [Kardenwort Ecosystem](#kardenwort-ecosystem)
 *   [License](#license)
 
@@ -70,9 +73,17 @@ Generate text from the audio track.
 *   **Integrity**: Create a hash sum of the audio file (using 7z) to ensure subtitle synchronization.
 *   **Review**: View double subtitles in a suitable player (e.g., Chrome with [asbplayer](https://github.com/killergerbah/asbplayer) plugin).
 
-For more details, see [RFC 20251228193409](docs/rfcs/20251228193409-doc-subtitle-process.md).
+[Return to Top](#table-of-contents)
+
+## Notes
+
+The [aistudio.google.com](https://aistudio.google.com) service is free to use, but please be aware of the following:
+*   There are usage limits (rate limits) for the free tier.
+*   By using the free tier, you agree that Google may use the data entered into the chat for service improvement purposes.
 
 [Return to Top](#table-of-contents)
+
+For more details, see [RFC 20251228193409](docs/rfcs/20251228193409-doc-subtitle-process.md).
 
 ## Kardenwort Ecosystem
 
