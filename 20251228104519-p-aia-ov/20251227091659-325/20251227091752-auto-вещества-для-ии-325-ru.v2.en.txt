@@ -395,370 +395,371 @@ And, as a matter of fact, the supply of Titanium chips to OpenAI.
 Trainium.
 @@@
 Well, basically, they will provide that 10 billion just with these Trainium chips.
-По факту.
 @@@
-Железом.
+In fact.
 @@@
-Ну, и мощностями AWS, да.
+With hardware.
 @@@
-Прикол в том, что они таким образом еще и на Nvidia на пятки наступают.
+Well, and AWS capacity, yes.
 @@@
-Они своими чипами Trainium.
+The funny thing is that this way they're also stepping on Nvidia's toes.
 @@@
-Это тензорные, по-моему, чипы очень сильно поднасирают в грядку вместе с углом.
+With their Trainium chips.
 @@@
-А они Trainium называются?
+These are tensor chips, I think, that are really messing things up for them, along with the angle.
 @@@
-И Titanium всегда читают?
+Are they called Trainium?
+@@@
+And people always read it as Titanium?
 @@@
 Trainium, Trainium.
 @@@
-А, ой, точно Trainium.
+Ah, oh, right, Trainium.
 @@@
-Блин, капец.
+Damn, that's crazy.
 @@@
-Это мы с Витей Ведмичем недавно общались, он сказал Trainium, и я тоже такой, блин, да вроде Titanium были.
+Vitya Vedmich and I were talking recently, he said Trainium, and I was also like, damn, I thought they were Titanium.
 @@@
-Ну, нет, Trainium.
+Well, no, Trainium.
 @@@
 Trainium 3.
 @@@
-По-моему, мы всегда Titanium говорили, нет?
+I think we always said Titanium, didn't we?
 @@@
-Ну, по-моему, мне тоже так казалось.
+Well, I think I thought so too.
 @@@
-Я не помню, у нас там с Amazon будет дальше новость или нет, по-моему?
+I don't remember, do we have news about Amazon later on or not, I think?
 @@@
-Там просто...
+It's just that...
 @@@
-По-моему, нет.
+I don't think so.
 @@@
-Не будет.
+There won't be.
 @@@
-Тогда я тут докину еще про эти чипы Trainium.
+Then I'll add a bit more here about these Trainium chips.
 @@@
-Они анонсировали третью версию, которую, скорее всего,
+They announced the third version, which they will most likely,
 @@@
-в частности, будут OpenAI втирать.
+in particular, be pushing on OpenAI.
 @@@
-Но они еще заанонсили Trainium 4.
+But they also announced Trainium 4.
 @@@
-Я ценю уровень троллинга, или не знаю, что это.
+I appreciate the level of trolling, or I don't know what it is.
 @@@
-Это, наверное, не троллинг, но, короче, они сказали, что у нас будут чипы Trainium 4, которые будут совместимы с GPU Nvidia через шину от Nvidia,
+It's probably not trolling, but, in short, they said that they will have Trainium 4 chips that will be compatible with Nvidia GPUs via an Nvidia bus,
 @@@
 NVFusion, NVLink Fusion.
 @@@
-Я не знаю, ну, типа, с одной стороны,
+I don't know, well, like, on the one hand,
 @@@
-наверное, они там с Nvidia склаборировались, потому что это же надо от NVD, наверное, получить какие-то там данные или что.
+they probably collaborated with Nvidia there, because you'd probably need to get some data or something from NVD.
 @@@
-А может это открытый протокол?
+Or maybe it's an open protocol?
 @@@
-Ну короче, это странно.
+Well, in short, it's strange.
 @@@
-Типа, мы делаем конкурента и будем еще совместимы с вами, с конкурентом, чтобы еще больше вас...
+Like, we're making a competitor and we'll also be compatible with you, the competitor, to... you even more.
 @@@
-Ну да, это с точки зрения Амазона максимально логично.
+Well yeah, from Amazon's point of view, it's as logical as it gets.
 @@@
-Ну, вообще, OpenAI, конечно, просто какая-то монструозная компания.
+Well, in general, OpenAI is, of course, just some kind of monstrous company.
 @@@
-Тут тоже новость была, какая-то нет.
+There was some news about that too, wasn't there.
 @@@
-Мы ее не добавляли, но она очень созвучно буквально сегодня выстрелила.
+We didn't add it, but it popped up today, very fittingly.
 @@@
-OpenAI до 29-го года будет скупать примерно 40% всех созданных чипов памяти вообще в мире.
+OpenAI will be buying up about 40% of all memory chips produced in the world until 2029.
 @@@
-Это уже официально.
+That's official now.
 @@@
-В рамках проекта Stargate.
+As part of the Stargate project.
 @@@
-Из-за этого там уже все...
+Because of that, everyone is already...
 @@@
-Да, да, да.
+Yeah, yeah, yeah.
 @@@
-В том числе из-за этого игроманы уже говорят, что она еще дороже станет.
+Partly because of this, gamers are already saying that it will get even more expensive.
 @@@
-Ты прикинь, какой-то там стартап еще 3 года назад, который был стартапом 4 года назад, скупает 40% всей мировой оперативы.
+Can you imagine, some startup from 3 years ago, which was a startup 4 years ago, is buying up 40% of the world's entire RAM.
 @@@
-4 года назад еще и некоммерческой организации.
+And 4 years ago, it was also a non-profit organization.
 @@@
-На секундочку.
+Just for a second.
 @@@
-Триндец, просто такие масштабы.
+Damn, just such a scale.
 @@@
-Да.
+Yeah.
 @@@
-Вот такая штука.
+So that's the thing.
 @@@
-Но кроме новостей с покупками, с бабками, у них было много новостей за последние недели с технического толку.
+But besides the news about purchases, about money, they had a lot of tech-related news in recent weeks.
 @@@
-Во-первых, вышла топовая модель GPT-5.2.
+First, the top model GPT-5.2 was released.
 @@@
-Это флагман OpenAI.
+It's OpenAI's flagship.
 @@@
-Вышла параллельно, не параллельно, а друг за другом вышло три версии этой модели, даже четыре, можно сказать.
+Three versions of this model were released in parallel, no, not in parallel, but one after another, you could even say four.
 @@@
-Сначала вышла GPT-5.2, потом буквально через несколько дней вышла GPT-5.2 Pro.
+First came GPT-5.2, then literally a few days later came GPT-5.2 Pro.
 @@@
-Это, де-факто, на сегодняшний день самая мощная модель существующих вообще.
+This is, de facto, the most powerful model in existence today.
 @@@
-И потом вышла, вместе с Pro вышла GPT-5.2 Thinking.
+And then, along with Pro, GPT-5.2 Thinking was released.
 @@@
-Она якобы заточена на математику и науку.
+It's supposedly tailored for math and science.
 @@@
-И потом, вот там через неделю, наверное, либо чуть позже, вышла GPT-5.2 Codex для программирования модель.
+And then, like a week later, maybe, or a little later, the GPT-5.2 Codex model for programming was released.
 @@@
-Как не запутаться?
+How not to get confused?
 @@@
-GPT-5.2 прямой наследник, GPT-5.1.
+GPT-5.2 is the direct successor to GPT-5.1.
 @@@
-Скорее всего, 5.1 скоро будет deprecated.
+Most likely, 5.1 will be deprecated soon.
 @@@
-Она стоит практически столько же.
+It costs almost the same.
 @@@
-Буквально там подорожала на...
+The price literally went up by...
 @@@
-Сколько получается?
+How much is that?
 @@@
-Где-то на 10 или 15 процентов.
+Somewhere around 10 or 15 percent.
 @@@
-Стоило 1.5 доллара за миллион входящих токенов.
+It used to cost 1.5 dollars per million input tokens.
 @@@
-Теперь 1.75.
+Now it's 1.75.
 @@@
-При этом работает лучше, по бенчмаркам лучше.
+And it works better, it's better on benchmarks.
 @@@
-Чуть-чуть медленнее, но вроде как это уже выровнялось.
+A little bit slower, but it seems like that has already leveled out.
 @@@
-И что важно, GPT-5.2 наконец-то модель со свежими данными.
+And what's important, GPT-5.2 is finally a model with fresh data.
 @@@
-Они обучались на данных до августа 2025 года.
+It was trained on data up to August 2025.
 @@@
-Все предыдущие модели обучались на данных до сентября 2024 года.
+All previous models were trained on data up to September 2024.
 @@@
-Их за это прям сильно хейтили.
+They were really hated on for that.
 @@@
-GPT-5.2 Pro и Thinking нам неинтересны особо, потому что, во-первых,
+We're not particularly interested in GPT-5.2 Pro and Thinking because, first of all,
 @@@
-они доступны далеко не всем.
+they are not available to everyone.
 @@@
-Они там доступны...
+They are available there...
 @@@
-Pro доступна через API, Thinking доступна хер знает как, но и та, и та модель стоит конских денег.
+Pro is available via API, Thinking is available God knows how, but both models cost a fortune.
 @@@
-Прошка стоит 21 бакс за миллион входящих и 168 миллион исходящих токенов.
+The Pro version costs 21 bucks per million input and 168 per million output tokens.
 @@@
-Это такие же дорогие модели.
+These are similarly expensive models.
 @@@
-Были, наверное, когда, помнишь, первый раз выходила, по-моему, GPT-5 или 4.5.
+They probably were, remember, when, I think, GPT-5 or 4.5 first came out.
 @@@
-5 Pro там тоже конский ценник был.
+5 Pro had a crazy price tag back then too.
 @@@
-Вот первая Pro, когда вышла.
+When the first Pro came out.
 @@@
-Короче, это...
+Anyway, it's...
 @@@
-Пятерка, по-моему, была.
+The 5 series, I think it was.
 @@@
-Research-модели.
+Research models.
 @@@
-И с Codex тоже не все так хорошо.
+And with Codex, things aren't so great either.
 @@@
-Вроде как, ну, Codex нам, наша аудитория релевантен, у нас много разработчиков.
+It seems that, well, Codex is relevant to us, to our audience, we have a lot of developers.
 @@@
-Но 5.2 Codex выйдет в API только в начале 26-го года.
+But 5.2 Codex will only be available in the API in early 2026.
 @@@
-А пока что он доступен только через их command-line interface Codex.
+And for now, it's only available through their command-line interface Codex.
 @@@
-Ну, либо через extension к этому command-line интерфейсу.
+Well, or through an extension for that command-line interface.
 @@@
-Вот такие новости с моделями для разработки от OpenAI.
+So that's the news on development models from OpenAI.
 @@@
-Да, но не только разработка единая.
+Yeah, but it's not just about development alone.
 @@@
-Но, во-первых, это не только модели для разработки.
+But, first of all, these aren't just models for development.
 @@@
-Ну, да-да-да.
+Well, yeah, yeah, yeah.
 @@@
-В смысле, с LLM.
+I mean, with LLMs.
 @@@
-Их уже и LLM-ками назовешь.
+You can barely even call them LLMs anymore.
 @@@
-С моделями, которые работают с текстом в первую очередь.
+With models that primarily work with text.
 @@@
-Вот так, скажем, foundational модели.
+Let's put it this way, foundational models.
 @@@
-Вот.
+There.
 @@@
-Но GPT, точнее, OpenAI, вспомнили, что у них есть модель, которая генерит картинки.
+But GPT, or rather, OpenAI, remembered that they have a model that generates images.
 @@@
 GPT Image.
 @@@
-И вспомнили, что они не запушили апдейт давным-давно, видимо, туда.
+And they remembered that they apparently hadn't pushed an update there in a long, long time.
 @@@
-И таки его задеплоили.
+And so they finally deployed it.
 @@@
-Вышел GPT Image 1.5.
+GPT Image 1.5 came out.
 @@@
-Это конкурент Nado Banano Pro.
+It's a competitor to Nado Banano Pro.
 @@@
-Заявляли, что он работает супербыстро, чуть ли не быстрее, там, Nado Banano и прочее.
+They claimed that it works super fast, almost faster than, like, Nado Banano and others.
 @@@
-Но работает, по факту, он медленней.
+But in fact, it works slower.
 @@@
-И на бенчмарках его у меня тоже.
+And on the benchmarks I have, it's the same.
 @@@
-Качество...
+The quality...
 @@@
-Блин, качество классное, как по мне.
+Damn, the quality is great, in my opinion.
 @@@
-Текст нормально уже генерит?
+Does it generate text normally now?
 @@@
-Давно, но еще в первой версии нормально.
+It has for a while, it was fine even in the first version.
 @@@
-Не, в первой версии да, но там бывало на русском ошибку, там, слово через три сделает буковку ошибки.
+No, it was fine in the first version, but sometimes it would make a mistake in Russian, like, it would get a letter wrong every three words.
 @@@
-Nado Banano вообще так не делает.
+Nado Banano doesn't do that at all.
 @@@
-Она все правильно пишет.
+It writes everything correctly.
 @@@
-Там, может, прям страницу А4 с текстом написано, да, если она напишет.
+It can, like, write a whole A4 page of text, yeah, if you ask it to write.
 @@@
-Слушай, я так глубоко не проверял, но прям хорошо генерит.
+Listen, I haven't tested it that deeply, but it generates really well.
 @@@
-Еще я там видел у них вкладочка новая, появилась Images, ну, это такое минорное.
+I also saw they have a new tab, Images, well, that's a minor thing.
 @@@
-Gallery раньше называлось, теперь Images.
+It used to be called Gallery, now it's Images.
 @@@
-Да, типа картиночки.
+Yeah, like little pictures.
 @@@
-Я еще по всем этим моделям сегодня инсайдик видел.
+I also saw an inside scoop today about all these models.
 @@@
-Неизвестно, это инсайдик или, может, фикция, но говорят, что GPT 5.2 и Images 1.5 — это чекпоинты их следующих моделей.
+It's unknown if it's an inside scoop or maybe fiction, but they say that GPT 5.2 and Images 1.5 are checkpoints for their next models.
 @@@
-Ранние-ранние чекпоинты.
+Very early checkpoints.
 @@@
-То есть, возможно, до Нового года, либо в начале февраля, OpenAI нас еще порадует новыми моделями.
+So, it's possible that before the New Year, or in early February, OpenAI will delight us with new models again.
 @@@
-Прямо сильно лучше, чем эти.
+Like, way better than these ones.
 @@@
-Ну, надо же как-то оторваться от Google.
+Well, they have to pull away from Google somehow.
 @@@
-Ну, да.
+Well, yeah.
 @@@
-Со всей дури.
+With all their might.
 @@@
-Там и с Google то же самое говорят, что Gemini 3 Pro — это такой ранний чекпоинт.
+They're saying the same thing about Google, that Gemini 3 Pro is also an early checkpoint.
 @@@
-Ладно.
+Alright.
 @@@
-Вкладочка в части GPT Images появилась.
+A little tab for GPT Images appeared.
 @@@
-что еще в части GPT появилось?
+what else appeared in GPT?
 @@@
-Запиненные чаты?
+Pinned chats?
 @@@
-Запиненные чаты?
+Pinned chats?
 @@@
-Ну, спасибо.
+Well, thank you.
 @@@
-Пригодится.
+That'll be useful.
 @@@
-А вот то, что появилось дальше,
+But the thing that appeared next,
 @@@
-не знаю, успел ты попробовать или не успел.
+I don't know if you've had a chance to try it or not.
 @@@
-Попробовать я не успел, честно тебе скажу.
+I haven't had a chance to try it, I'll be honest with you.
 @@@
-Но новость интересная.
+But the news is interesting.
 @@@
-Ну, расскажи.
+Well, tell me.
 @@@
-Ну, ты расскажи, а я потом скажу, что я успел сделать.
+Well, you tell me, and then I'll say what I've managed to do.
 @@@
-Короче, в чат GPT добавили Photoshop.
+In short, they added Photoshop to ChatGPT.
 @@@
-Я напоминаю, что в Photoshop недавно добавили Nano Banana Pro, а потом в чат GPT добавили.
+I'll remind you that they recently added Nano Banana Pro to Photoshop, and then they added to ChatGPT.
 @@@
-Почему-то потом в Photoshop добавили в чат GPT.
+For some reason, they then added Photoshop to ChatGPT.
 @@@
-Ну, а также еще Acrobat.
+Well, and also Acrobat.
 @@@
-Это, кто не знает, это для редактирования PDF-ок совтина.
+For those who don't know, it's a piece of software for editing PDFs.
 @@@
-И Adobe Express.
+And Adobe Express.
 @@@
-Express даже не знаю, что такое, честно.
+I honestly don't even know what Express is.
 @@@
-Это для верстки дизайнов.
+It's for layout design.
 @@@
-Типа быстрая штука.
+Like a quick tool.
 @@@
-Ну, короче, вот теперь вы можете...
+So, in short, now you can...
 @@@
-Ну, я, честно говоря, посмотрел картинки, я не понял, как это работает.
+Well, honestly, I looked at the pictures, I didn't understand how it works.
 @@@
-У вас открывается какая-то облегченная версия, типа...
+Some kind of lightweight version opens up, like...
 @@@
-Это работает, я тебе расскажу как.
+It works, I'll tell you how.
 @@@
-И я потестить еще не успел хорошенько, но я настроил...
+And I haven't had a chance to test it properly yet, but I've set it up...
 @@@
-Это коннектор, это приложение.
+It's a connector, it's an application.
 @@@
-То есть тебе, чтобы это все заработало, нужно пойти в настройки, и там прям,
+So for it to work, you need to go into settings, and right there,
 @@@
-по-моему, для...
+I think, for...
 @@@
-Acrobat и Express, я могу ошибаться, прям надо залогиниться в аккаунт Adobe.
+Acrobat and Express, I could be wrong, you have to log in to your Adobe account.
 @@@
-Он тебе не должен быть платным, но залогиниться надо.
+It doesn't have to be a paid one, but you do have to log in.
 @@@
-А в Photoshop, по-моему, просто ты нажимаешь добавить, и обо...
+And with Photoshop, I think, you just click add, and bo...
 @@@
-что-то из них без логина работает.
+one of them works without a login.
 @@@
-Но в целом это прямая интеграция с этими сервисами.
+But overall, it's a direct integration with these services.
 @@@
-И у Adobe была большая статья про это.
+And Adobe had a big article about it.
 @@@
-И оно работает через какую-то прослойку вот у них.
+And it works through some kind of layer they have.
 @@@
-Это работает через какой-то там API SDK.
+It works through some API SDK there.
 @@@
-То есть по факту ты включаешь в диалог либо Adobe Acrobat, либо Photoshop и говоришь, вот тебе PSD-шка, пожалуйста, поменяй слои,
+So basically, you include either Adobe Acrobat or Photoshop in the dialogue and say, here's a PSD file, please change the layers,
 @@@
-удали один, добавь второй, третий, и тебе на выходе эта же PSD-шка выдается отредактированного, в которой новые слои.
+delete one, add a second, a third, and in the output you get the same edited PSD file with new layers.
 @@@
-Что в интернете у людей вызвало вообще бурю эмоций, это то, что ты теперь можешь создавать и редактировать PDF через чат GPT.
+What caused a storm of emotions on the internet was that you can now create and edit PDFs via ChatGPT.
 @@@
-Вот я прямо сейчас сделал этот промт, написал, сделай мне PDF-ку, с надписью Алексей, мне приложение Adobe Acrobat прям говорит, Create PDF, да, Create PDF, и оно мне создает PDF-ку, и вот там написано «Привет, Алексей».
+I just made this prompt right now, wrote, make me a PDF with the text Alexey, and the Adobe Acrobat app literally tells me, Create PDF, yes, Create PDF, and it creates a PDF for me, and it says "Hello, Alexey" there.
 @@@
-При этом открывается интерфейс Acrobat, ты там можешь в этом интерфейсе сам поредактировать файлик получившийся.
+And the Acrobat interface opens up, where you can edit the resulting file yourself.
 @@@
-А вот, кстати, логин попросила.
+Oh, by the way, it did ask for a login.
 @@@
-То есть это прям супер плотная интеграция с этими продуктами.
+So it's a super tight integration with these products.
 @@@
-И с Acrobat 'а люди угорели, потому что говорят, как так, Adobe никому эту технологию вообще не продавал, Брал за нее деньги постоянно, а тут чат уже 5...
+And people went crazy over Acrobat, because they're saying, how is this possible, Adobe never sold this technology to anyone, they always charged money for it, and now ChatGPT 5...
 @@@
-Да, да.
+Yeah, yeah.
 @@@
-Вот.
+There you go.
 @@@
-Короче, это самое, наверное,
+In short, this is probably the most,
 @@@
-ну, не сказать, что сложное, а самая доскональная интеграция, OpenAI, за последние вот полгода.
+well, not to say complex, but the most thorough integration from OpenAI in the last six months.
 @@@
-Мощная интеграция.
+A powerful integration.
 @@@
-Это, что касается ChatGPT В общем, ChatGPT цветет благодаря интеграциям.
+That's regarding ChatGPT. Overall, ChatGPT is flourishing thanks to integrations.
 @@@
-Если вернуться еще к программированию, потому что у них было большое достаточно обновление с Codex CLI.
+If we go back to programming, because they had a pretty big update with Codex CLI.
 @@@
-Давай тоже немножко туда вернемся.
+Let's go back there for a bit too.
 @@@
-Codex CLI — это их агент для разработки.
+Codex CLI is their development agent.
 @@@
-И у него появилась интеграция с трекинг-системой Linear, появилась возможность создавать кастомные слэш-команды, и туда завезли GPT 5.2 Codex, как уже выше было сказано.
+And it got an integration with the Linear tracking system, the ability to create custom slash commands, and they brought in GPT 5.2 Codex, as mentioned above.
