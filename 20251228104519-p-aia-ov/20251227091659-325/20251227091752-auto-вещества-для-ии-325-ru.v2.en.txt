@@ -2134,404 +2134,404 @@ By the way, about Qwen.
 @@@
 Not a week goes by without Qwen this year.
 @@@
-Вот.
+There.
 @@@
-Qwen выпустили...
+Qwen released...
 @@@
-Что они выпустили?
+What did they release?
 @@@
-Открытую модель.
+An open model.
 @@@
-Новую модель.
+A new model.
 @@@
-Ну как новую?
+Well, how is it new?
 @@@
-Еще Qwen выпускает.
+Qwen is releasing more.
 @@@
-Это старая модель, но это Thinking-версия, думающая версия.
+It's an old model, but this is the Thinking version, a thinking version.
 @@@
-Модели Qwen 3 Next 80B A3B, теперь она думающая вышла.
+The Qwen 3 Next 80B A3B model, now the thinking version is out.
 @@@
-Вот недумающая версия нас сильно не удивила, потому что, хоть она на 80 миллиардов параметров, но так как там A3B, это значит, что это смесь экспертов.
+The non-thinking version didn't really surprise us because, although it has 80 billion parameters, since it's A3B, it means it's a mixture of experts.
 @@@
-То есть там под капотом модельки по 3 миллиарда параметров работают, что небольшие.
+Meaning, under the hood, models of 3 billion parameters are working, which is small.
 @@@
-Но вот Thihking-версия по бенчам работает на уровне Qwen 3 30B.
+But the Thinking version performs on par with Qwen 3 30B on benchmarks.
 @@@
-А Quent 3 30B это Thinking.
+And Qwen 3 30B is Thinking.
 @@@
-Это моно-модель.
+It's a mono-model.
 @@@
-То есть, по факту, эксперты на 3B, на 3 млрд параметров в новой модели работают примерно так же круто, как модель на 30 млрд параметров, где один у тебя эксперт, грубо говоря, 30 млрд параметров, что он широкого плана.
+So, in fact, the 3B experts, the 3 billion parameter experts in the new model, work about as cool as a 30 billion parameter model where you have one expert, roughly speaking, of 30 billion parameters, which is general-purpose.
 @@@
-И это прирост в 10 раз.
+And that's a 10x improvement.
 @@@
-При этом у модели еще очень классный контекст.
+On top of that, the model also has a very cool context.
 @@@
-Она, собственно, сделана для работы с длинными контекстами.
+It's actually made for working with long contexts.
 @@@
-260 тысяч токенов, расширяется до 1 миллиона.
+260 thousand tokens, expandable to 1 million.
 @@@
-И...
+And...
 @@@
-хороша.
+it's good.
 @@@
-Я ее потестил на компе.
+I tested it on my computer.
 @@@
-Она...
+It's...
 @@@
-она крутая.
+it's awesome.
 @@@
-Она не дотягивает до Qwen 32B по многим задачам, но она очень быстрая, учитывая, что там трехмиллиардные модельки под капотом.
+It doesn't quite reach Qwen 32B on many tasks, but it's very fast, considering it has three-billion-parameter models under the hood.
 @@@
-Эксперты — это просто какой-то новый уровень крутой.
+Experts are just some next level of cool.
 @@@
-Так что да.
+So yeah.
 @@@
-Класнецкий, че.
+Cool, huh.
 @@@
-И на этом у нас, наверное, с большими рыбами все.
+And with that, I guess we're done with the big fish.
 @@@
-Как и с китайскими карасиками.
+As well as with the Chinese crucian carps.
 @@@
-А, как и с китайскими карасиками.
+Oh, as well as with the Chinese crucian carps.
 @@@
-Кстати, блин, нет, не все.
+By the way, damn, no, that's not all.
 @@@
-Хотел еще докинуть немножко.
+Wanted to add a little more.
 @@@
-Я, блин, как всегда.
+Damn it, same as always.
 @@@
 Kaleido z.ai.
 @@@
-Ты там просто Сursor водил, и я понял, что у меня было еще кое-что добавить по этой видеомодели.
+You were just moving the cursor there, and I realized I had something else to add about this video model.
 @@@
-Она...
+It's...
 @@@
-она...
+it's...
 @@@
-она опенсорсная, эта видеомодель.
+it's open-source, this video model.
 @@@
-На 14 миллиардов параметров.
+At 14 billion parameters.
 @@@
-И она...
+And it...
 @@@
-Ее фишка в том, что она несколько изображений миксует в видео.
+Its gimmick is that it mixes several images into a video.
 @@@
-Ты можешь подать несколько изображений.
+You can input several images.
 @@@
-Например, там в примере была Тейлор Свифт с каким-то пацаном на входе.
+For example, in the demo, there was Taylor Swift with some guy as input.
 @@@
-В смысле, пацан, Тейлор Свифт и Промт, типа, они обнимаются.
+I mean, the guy, Taylor Swift, and a prompt, like, "they are hugging."
 @@@
-И эта моделька опенсорсная реально качественный видос генерит, где этот пацан и Тейлор Свифт обнимаются.
+And this open-source model generates a really high-quality video where this guy and Taylor Swift are hugging.
 @@@
-Это не уровень Sora, конечно, но в принципе, если иметь прямые руки и уметь пользоваться видеоредактором, то эти видосики можно доводить до состояния не отличимого от реальных.
+It's not Sora-level, of course, but in principle, if you have skilled hands and know how to use a video editor, you can bring these videos to a state indistinguishable from reality.
 @@@
-Я словил опять...
+I caught myself again...
 @@@
-Открытое.
+Open.
 @@@
-Открытое.
+Open.
 @@@
-И это китайская модель, там не будет, скорее всего, ограничений на звезд и все остальное.
+And it's a Chinese model, so there probably won't be restrictions on celebrities and all that.
 @@@
-Я опять словил этот момент, знаю, что это ощущение киберпанк не самого, может, доброго будущего.
+I caught that feeling again, you know, that cyberpunk feeling of a not-so-bright future.
 @@@
-Когда вот уже ты на обычных компах можешь генерить видосы по двум референсам людей, не существующие вообще без облака, без ничего.
+When you can already generate non-existent videos from two human references on regular computers, without the cloud, without anything.
 @@@
-Ну да.
+Yeah.
 @@@
-Такая штука.
+That kind of thing.
 @@@
-Так, ну и закончим мы нашу рубрику смс-чатом.
+Okay, well, let's end our segment with the SMS chat.
 @@@
-Арина Дорофеева пишет, с нового года буду активно искать новую работу продакта.
+Arina Dorofeeva writes, "Starting from the new year, I will be actively looking for a new product manager job."
 @@@
-Буду рада рефералкам.
+"I would be happy to get referrals."
 @@@
-Пишите рефералки Арине Дорофеевой, пожалуйста.
+Please write referrals to Arina Dorofeeva.
 @@@
-Да.
+Yes.
 @@@
-Найти Арину можно у нас в чатике в Телеграме.
+You can find Arina in our chat on Telegram.
 @@@
-Подкаст он вайб.
+Podcast on vibe.
 @@@
-Либо, если не получится там, можете написать нам в личку.
+Or, if you can't find her there, you can send us a direct message.
 @@@
-Либо в комментариях в Ютубе.
+Or in the comments on YouTube.
 @@@
-Думаю, Арина найдет вас.
+I think Arina will find you.
 @@@
-Либо, наверное, поищите Арину, может, на LinkedIn.
+Or, perhaps, look for Arina on LinkedIn, maybe.
 @@@
-Не знаю, но там тоже есть.
+I don't know, but she's there too.
 @@@
-Может, это ее не настоящее имя.
+Maybe it's not her real name.
 @@@
-А мы, кстати, не собираем...
+By the way, we don't collect...
 @@@
-Настоящее, я проверял.
+It's real, I checked.
 @@@
-А, так, Витя, подкат.
+Ah, so, Vitya, making a move.
 @@@
-В смысле?
+What do you mean?
 @@@
-Нет, нормально, ничего.
+No, it's fine, nothing.
 @@@
-А, окей.
+Ah, okay.
 @@@
-Ну, Арина как-то сказала у нас в чате, что ее можно загуглить.
+Well, Arina once said in our chat that you can google her.
 @@@
-А, да, ладно.
+Ah, yeah, alright.
 @@@
-Я и загуглил.
+So I googled her.
 @@@
-Окей, окей, хорошо, хорошо.
+Okay, okay, good, good.
 @@@
-Все, на этом с китайскими карасями закончили.
+Alright, that's it for the Chinese crucian carps.
 @@@
-Хочешь лол?
+Want a lol?
 @@@
-Ты про GLM?
+You mean about GLM?
 @@@
-Ха-ха-ха-ха-ха.
+Ha-ha-ha-ha-ha.
 @@@
-Да.
+Yes.
 @@@
-Тоже посчитал?
+You figured it out too?
 @@@
-Да.
+Yeah.
 @@@
-Короче, на этом китайские карасики не закончились.
+In short, the Chinese crucian carps are not over.
 @@@
-У нас буквально был 5 минут перерыв сейчас традиционно.
+We just had a traditional 5-minute break.
 @@@
-После больших рыб.
+After the big fish.
 @@@
-Прилетела новость, что вышел новый GLM 4.7.
+News just dropped that the new GLM 4.7 is out.
 @@@
-Да, как раз от того самого Зай.
+Yes, from that very same Zai.
 @@@
-Зай, да.
+Zai, yeah.
 @@@
-Судя по отзывам ранним, вообще ранним, модель работает лучше Gemini 3 Flash.
+Judging by the early, very early reviews, the model works better than Gemini 3 Flash.
 @@@
-В первой версии статьи китайцы вообще написали, что она работает лучше Sonnet 4.5, Opus 4.5 и GPT 5.1.
+In the first version of the article, the Chinese actually wrote that it performs better than Sonnet 4.5, Opus 4.5, and GPT 5.1.
 @@@
-Но быстренько убрали эти данные.
+But they quickly removed that data.
 @@@
-Вот.
+So there.
 @@@
-Моделька не мультимодальная, потому что не V.
+The model is not multimodal, because it's not V.
 @@@
-У них V мультимодальная.
+Their V is the multimodal one.
 @@@
-Работает только с текстом.
+It only works with text.
 @@@
-Длина контекста 200 тысяч токенов, Thinking Mode, Function Calling, Streaming Output, Structure Output.
+Context length of 200 thousand tokens, Thinking Mode, Function Calling, Streaming Output, Structured Output.
 @@@
-И пишут, что модель заточена под программирование.
+And they say the model is tailored for programming.
 @@@
-Z.ai Под программирование в основном модели делают.
+Z.ai mainly makes models for programming.
 @@@
-И что-то там еще было.
+And there was something else.
 @@@
-Модель фокусируется именно на выполнении задач, а не просто на написании кода.
+The model focuses specifically on task execution, not just on writing code.
 @@@
-Будто бы ее обучали вот прям на выполнение задач.
+As if it were trained specifically for task execution.
 @@@
-Короче, пишут, что модель уже предоставлена для использования во всех инструментах популярных.
+In short, they write that the model is already available for use in all popular tools.
 @@@
-Прямо у них на сайте z.ai написано, что уже и в Claude Code она должна быть, и в Cline, и OpenCode, и Roocode.
+Right on their website z.ai it says that it should already be in Claude Code, and in Cline, and OpenCode, and Roocode.
 @@@
-Короче, такая вот новость.
+So, that's the news.
 @@@
-Пожалуйста, если вы программированием занимаетесь, надо тестить эту модель.
+Please, if you are into programming, you need to test this model.
 @@@
-Блин, я буквально до записи нашего с тобой выпуска писал подкаст для эволюции кода.
+Damn, right before recording this episode with you, I was writing a podcast for Code Evolution.
 @@@
-Я там записываю раз в две недели технический подкаст про новости этого.
+I record a technical podcast there every two weeks about news in this area.
 @@@
-И я думаю, сейчас запишем с тобой подкаст, и я спокойненько пойду выложу запись для эволюции кода.
+And I'm thinking, we'll record this podcast now, and then I'll calmly go and upload the recording for Code Evolution.
 @@@
-Блин, нет.
+Damn, no.
 @@@
-Теперь надо будет его перезаписывать.
+Now I'll have to re-record it.
 @@@
-Ладно.
+Oh well.
 @@@
-Вот спасибо китайцам, успели ровно в запись.
+Thanks to the Chinese, they made it just in time for the recording.
 @@@
-Еще и в китайские карасики.
+And into the Chinese crucian carps segment too.
 @@@
-Кстати, это первый раз, когда китайцы нам такую подлянку...
+By the way, this is the first time the Chinese have played such a dirty trick on us...
 @@@
-Да.
+Yeah.
 @@@
-Почти подлянку.
+Almost a dirty trick.
 @@@
-Не, не подлянку, они идеально успели.
+No, not a dirty trick, their timing was perfect.
 @@@
-Ну, идеально, идеально, согласен, идеально.
+Well, perfect, perfect, I agree, perfect.
 @@@
-Ладно.
+Alright.
 @@@
-Надо сценарий пометить, что мы это рассказали.
+I need to mark in the script that we've covered this.
 @@@
-Хорошо.
+Okay.
 @@@
-Давай идти на что еще?
+Shall we move on to "what else"?
 @@@
-Да, у нас рубрика «Что еще ?».
+Yes, we have the "What else?" segment.
 @@@
-Вот, начинаем с американской лаборатории Essential AI, которые зарелизили модель Rnj-1.
+So, we're starting with the American lab Essential AI, which released the Rnj-1 model.
 @@@
-Много моделей сегодня.
+Lots of models today.
 @@@
-И она отлично себя показывает.
+And it performs excellently.
 @@@
-Это открытая модель, причем до 8 миллиардов параметров.
+It's an open model, up to 8 billion parameters.
 @@@
-Точнее, 8 миллиардов параметров.
+To be precise, 8 billion parameters.
 @@@
-И она отлично себя показывает на программистских STEM-задачах и так далее, и тому подобное.
+And it performs excellently on programming STEM tasks and so on, and so forth.
 @@@
-Я прям удивился.
+I was really surprised.
 @@@
-Я ее скачал к себе попробовать.
+I downloaded it to try it out.
 @@@
-У меня же есть этот бенчмарк, я уже вам рассказывал.
+I have this benchmark, I've told you about it already.
 @@@
-Своя задачка, которую я даю маленьким локальным моделям на потестировать, когда у тебя крутится квадрат.
+My own little task that I give to small local models to test, where you have a rotating square.
 @@@
-На дживаскрипте написан код, который запускает в Canvas квадрат, который крутится вокруг своего центра.
+There's JavaScript code that runs a square in Canvas that rotates around its center.
 @@@
-И в этом квадрате у тебя шарик отталкивается от сторон квадрата.
+And inside this square, you have a small ball that bounces off the sides of the square.
 @@@
-Вот эту задачу мне решило пока что из локальных моделек, только небольших.
+So far, among the small local models, this task has only been solved for me by...
 @@@
-Минимум, что мне решало.
+The smallest that solved it for me.
 @@@
-Это был Qwen на 32 миллиарда параметров.
+Was Qwen with 32 billion parameters.
 @@@
-И qwq, по-моему, на 30 миллиардов параметров.
+And qwq, I think, with 30 billion parameters.
 @@@
-А, еще GPT OSS, но там 120 миллиардов параметров было.
+Oh, and also GPT OSS, but that was 120 billion parameters.
 @@@
-Все, что меньше 30 миллиардов параметров, это не решило эту задачу.
+Anything smaller than 30 billion parameters didn't solve this task.
 @@@
-И эта модель тоже ее не решила на 8 миллиардов параметров.
+And this model didn't solve it either at 8 billion parameters.
 @@@
-Но фигня в том, что я на этой задаче еще параллельно проверял новый Devstral, который Small, который на 24 4 миллиарда параметров.
+But the funny thing is, on this task, I was also testing the new Devstral, the Small one, which is 24... 4 billion parameters.
 @@@
-И он ее точно так же всрато не решил, как эта модель на 8 миллиардов.
+And it failed to solve it just as shittily as this 8 billion model.
 @@@
-По уровню всратости одинаково.
+The level of shittiness was the same.
 @@@
-При том, что Devstral Small выбивает 60% на LiveCodeBench, а эта моделька 20%.
+Even though Devstral Small gets 60% on LiveCodeBench, and this model gets 20%.
 @@@
-Для 8-миллиардной модели 20% на LiveCodeBench это просто космос какой-то.
+For an 8-billion-parameter model, 20% on LiveCodeBench is just out of this world.
 @@@
-Но субъективно мне кажется, что она еще лучше.
+But subjectively, it seems even better to me.
 @@@
-В общем,
+Anyway,
 @@@
-не сказать, что она практически применима для чего-то, но если вы хотите на телефоне попрограммировать, то вот у вас появилась возможность с моделью локальной.
+can't say it's practically applicable for anything, but if you want to code on your phone, you now have the option with a local model.
 @@@
-Пожалуйста, качайте.
+Go ahead, download it.
 @@@
-В армии, юзкейс, кстати, скачал себе.
+In the army, a use case, by the way, downloaded it.
 @@@
-Я знаю же в армии люди...
+I know people in the army...
 @@@
-Ну, наверно, да.
+Well, probably, yeah.
 @@@
-Или в тюрьме.
+Or in prison.
 @@@
-Или в тюрьме, да.
+Or in prison, yeah.
 @@@
-Я сейчас просто подумал, что армия в наше время, наверное, называется тоже моветон какой-то.
+I just thought that mentioning the army these days is probably also in bad taste somehow.
 @@@
-Ну, наверное, да.
+Well, probably, yeah.
 @@@
-Ну, был же этот с bash.org классическая цитата, как программировать на Java с Sony Ericsson.
+Well, there was that classic quote from bash.org, about how to program in Java on a Sony Ericsson.
 @@@
-Типа, чего, брат, да я в тюрьме.
+Like, "What's up, bro? I'm in prison."
 @@@
-Я почему вспомнил, у меня были друзья, которые в армии еще в 18-м далеком году ходили с первыми смартфонами.
+The reason I remembered is I had friends who, back in the army in the distant year of '18, had the first smartphones.
 @@@
-И они просто к ним подключали клавиатуру внешнюю по USB.
+And they would just connect an external keyboard to them via USB.
 @@@
-В 18-м году уже были такие смарты.
+Back in '18, there were already smartphones like that.
 @@@
-И действительно, прямо на телефоне программировали.
+And they really did program right on their phones.
 @@@
-На маленьком экранчике там еще экраны были с 3 дюйма или что.
+On a tiny screen, the screens back then were like 3 inches or something.
 @@@
-И они программировали.
+And they coded.
 @@@
-Доставали там с потолков эти телефоны.
+They would get those phones from the ceilings.
 @@@
-Теперь они могли бы целую LLM запрячь.
+Now they could harness a whole LLM.
 @@@
-Ты их представляешь?
+Can you imagine them?
 @@@
-Да, да, можно вайб-кодить.
+Yeah, yeah, you can vibe-code.
 @@@
-Пожалуйста.
+There you go.
 @@@
-Да.
+Yeah.
 @@@
-Ты представь, скоро китайцы сделают на 8 миллиардов маленькую Voice Model.
+Just imagine, soon the Chinese will make a small 8-billion parameter Voice Model.
 @@@
-И можно будет из тюрьмы делать роботизированный колл-центр, который прям за смартфона прозванивает и ворует деньги.
+And it will be possible to run a robotic call center from prison that calls people from a smartphone and steals money.
 @@@
-Масштабирование.
+Scaling.
 @@@
-Какая жесть.
+How brutal.
 @@@
-Ладно, из хороших новостей еще в Dia завезли папки для вкладок.
+Okay, on to some good news, they've added tab folders in Dia.
 @@@
-Ура!
+Hooray!
 @@@
-Наконец-то в Arc, перекочевали из Arc.
+Finally in Arc, they migrated from Arc.
 @@@
-Точно такие же.
+Exactly the same ones.
 @@@
-Да, это была одна из ключевых фичей Arc, если кто-то не знает.
+Yeah, that was one of the key features of Arc, for those who don't know.
 @@@
-Ну это удобно, я после Arc вкладки держал в закладках, это очень неудобно.
+Well, it's convenient; after Arc, I kept my tabs in bookmarks, which is very inconvenient.
 @@@
-А теперь они у меня аккуратненько висят сбоку там, где Pins.
+And now they hang neatly on the side for me, where the Pins are.
 @@@
-Да, это правда, это правда.
+Yes, that's true, that's true.
 @@@
-Так, у нас новости из прошлого.
+Okay, we have news from the past.
 @@@
-Дальше.
+Next.
 @@@
-Это новости из прошлого в общем?
+Is this news from the past in general?
 @@@
-Ну, новость не из прошлого, но мы давно не говорили про компанию Black Forest Labs, которая делает Flax.
+Well, the news isn't from the past, but we haven't talked about the company Black Forest Labs, which makes Flax, in a long time.
 @@@
-Если помните, был такой Flax.
+If you remember, there was such a thing as Flax.
 @@@
-Вот обновился Flax.
+So, Flax has been updated.
 @@@
-Вышла Flax 2 Max.
+Flax 2 Max is out.
 @@@
-Новая модель для генерации изображений кинематографического качества.
+A new model for generating cinematic-quality images.
 @@@
-Я там посмотрел примеры.
+I looked at the examples there.
 @@@
-Ну, блин, она реально...
+Well, damn, it's really...
 @@@
-Сложно уже с чем-то сравнивать, но кажется, будто бы там прям...
+It's hard to compare it with anything anymore, but it seems like it's just...
 @@@
-Ну, классно все.
+Well, everything is great.
 @@@
-Прям очень классно.
+Really, really great.
 @@@
-Идеально фотки будто бы на фотик сняты.
+The photos are perfect, as if they were taken with a real camera.
