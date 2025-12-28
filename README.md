@@ -31,10 +31,10 @@ This repository is dedicated to preparing subtitles as part of working with fore
 The following optimal process has been established for creating subtitles, leveraging [Subtitle Edit](https://github.com/SubtitleEdit) and a modified Whisper utility (supporting word-by-word mode).
 
 ### 1. Acquisition
-Receive video or audio recordings (mp3/mp4) using tools like **Open-Video-Downloader** or **NewPipe**. Low resolution is sufficient for this purpose.
+Receive video or audio recordings (mp3/mp4) using tools like [Open-Video-Downloader](https://github.com/jely2002/youtube-dl-gui) or [NewPipe](https://github.com/TeamNewPipe). Low resolution is sufficient for this purpose.
 
 ### 2. Slicing (Optional)
-For very long recordings, use **LosslessCut** to split the file along Chapter boundaries into smaller portions for parallel or piece-wise processing.
+For very long recordings, use [LosslessCut](https://github.com/mifi/lossless-cut) to split the file along Chapter boundaries into smaller portions for parallel or piece-wise processing.
 
 ### 3. Recognition
 Generate text from the audio track.
