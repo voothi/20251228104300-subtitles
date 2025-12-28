@@ -15,8 +15,8 @@ The process currently consists of the following stages:
 6.  **Sentence Merging**: In Subtitle Edit, merge words into sentences along the boundaries of the track using the Auto-translate / `Merge sentences...` function. Save this as a separate file: **merged phrase/sentence** subtitles (**v2**). This version allows moving to the subtitle translation stage.
 7.  **Translation**: Translate subtitles in semi-automatic mode using [aistudio.google.com](https://aistudio.google.com) / Gemini 2.5 Pro. Use the prompt `docs/prompts/20251108170321-translation-into-english.md` (used for `20251227091752-drugs-for-ai-325-ru.v2.en.srt`). Carry out the translation in Subtitle Edit via Auto-translate / Auto-translate via Copy-Paste... Select Max block size 5000-10000 on an empty model context. Line separator `@@@`. Save the subtitle file with the `.en` postfix (e.g., `filename.v2.en.srt`).
 8.  **Verification**:
-    *   Create a hash sum from the audio file using 7z to ensure subtitles exactly match the recording.
-    *   View double subtitles in a player like Chrome using the [asbplayer](https://github.com/killergerbah/asbplayer) plugin (can be used as a PWA or locally).
+    -   Create a hash sum from the audio file using 7z to ensure subtitles exactly match the recording.
+    -   View double subtitles in a player like Chrome using the [asbplayer](https://github.com/killergerbah/asbplayer) plugin (can be used as a PWA or locally).
 9.  **YouTube Studio Upload**: Upload the finalized subtitles to [YouTube Studio](https://studio.youtube.com). Select the video, go to "Subtitles", add the language, and upload the SRT file "with timing". Optimize and publish.
 10. **Learning Integration (Anki)**: Use the **v2** subtitle text to prepare an Anki deck via **Kardenwort**. Process words using the [IntelliFiller AI](https://github.com/voothi/20251206123938-intellifiller-ai-addon-for-anki/tree/main) add-on for automated enrichment of cards.
 
