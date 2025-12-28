@@ -2536,370 +2536,370 @@ Really, really great.
 @@@
 The photos are perfect, as if they were taken with a real camera.
 @@@
-Вот в кинематографику затачивают.
+Now they're gearing it towards cinematography.
 @@@
-Если Nano Banana, она такая, типа, универсальная получилась, там и паспорт сгенерить можно, и чек левый.
+If we take Nano Banana, it turned out to be, like, so universal, you can generate a passport there, and a fake receipt.
 @@@
-Пожалуйста.
+You're welcome.
 @@@
-А, кстати, новый юзкейс Nano Banana.
+Oh, by the way, a new use case for Nano Banana.
 @@@
-Знаешь, какой?
+You know what it is?
 @@@
-Я в Твиттере узнал.
+I found out on Twitter.
 @@@
-Люди, короче, заказывают еду в сервисах типа Болтфуд, Уберфуд и так далее.
+Basically, people order food from services like Bolt Food, Uber Eats, and so on.
 @@@
-Генерят в Nano Banana разорванный пакет, в котором, типа, вся еда испорчена.
+They generate a torn bag in Nano Banana, in which, like, all the food is spoiled.
 @@@
-Отправляют это в саппорт и возвращают себе деньги.
+They send it to support and get their money back.
 @@@
-Блин!
+Damn!
 @@@
-Ну, это такой подставон курьером, на самом деле.
+Well, that's basically screwing over the courier.
 @@@
-Да.
+Yeah.
 @@@
-Ну, да.
+Well, yeah.
 @@@
-Не делайте так, пожалуйста.
+Please don't do that.
 @@@
-Но вот.
+But there you have it.
 @@@
-Но Flax не про это.
+But Flax isn't about that.
 @@@
-Flax вот про красивые картиночки.
+Flax is about pretty pictures.
 @@@
-Лучше бы они бомжей дома генерили.
+They'd be better off generating homeless people at home.
 @@@
-Да, бомжей тоже генерят.
+Yeah, they generate homeless people too.
 @@@
-Хорошо.
+Okay.
 @@@
-Я тебе сейчас закину новость.
+I'm about to drop some news on you.
 @@@
-Я обсцикал колени, когда ее видел.
+I pissed my pants laughing when I saw it.
 @@@
-А потом еще второй раз обсцикал колени, когда зашел на сайт.
+And then I pissed my pants a second time when I went to the website.
 @@@
-Короче.
+Anyway.
 @@@
-Есть такой чел.
+There's this guy.
 @@@
 Petter Rudwall.
 @@@
-Это креативный директор из Швеции.
+He's a creative director from Sweden.
 @@@
-Вот.
+Right.
 @@@
-Ну, короче, человек искусства.
+Well, in short, a man of the arts.
 @@@
-И что человек этот сделал?
+And what did this man do?
 @@@
-Он сидел такой себе.
+He was just sitting there.
 @@@
-Креативный, наверное.
+Being creative, probably.
 @@@
-Да, он долго думал.
+Yeah, he thought for a long time.
 @@@
-Я прям немножко почитал там Wired.
+I even read a bit about it on Wired.
 @@@
-Он долго думал, как же креатив и я их совместить.
+He thought for a long time about how to combine creativity and AI.
 @@@
-Уже много чего придумали с одной стороны, с другой стороны.
+On the one hand, a lot has already been invented, on the other hand.
 @@@
-Много чего не придумали.
+A lot hasn't been invented.
 @@@
-А с третьей стороны он не сильно технарь.
+And on the third hand, he's not much of a techie.
 @@@
-Надо что-то супер простое, но хайповое.
+He needed something super simple, but hype-worthy.
 @@@
-А NFT уже сто лет назад придумали.
+And NFTs were invented a hundred years ago.
 @@@
-И он такой.
+And he's like.
 @@@
-А почему бы не сделать магазин шмали?
+Why not make a weed shop?
 @@@
-Для AI.
+For AI.
 @@@
-Да, мне очень понравилась эта новость, скажу честно.
+Yeah, I really liked this news, I'll be honest.
 @@@
-И чувак открыл магазин шмали для AI.
+And the dude opened a weed shop for AI.
 @@@
-Называется Pharmacy.
+It's called Pharmacy.
 @@@
-Вы можете на этот сайт пройти.
+You can go to this website.
 @@@
-У нас ссылочка будет, я не знаю, в описании можно.
+We'll have a link, I don't know, maybe in the description.
 @@@
-Наверное, можно.
+Probably possible.
 @@@
-У нас YouTube не будет заставлять проходить опросы по употреблению наркотиков.
+YouTube won't make us take surveys about drug use.
 @@@
-Надеюсь, что нет.
+Hope not.
 @@@
-Ладно, мы оставим ссылочку на статью, где рассказывается про этот магазин, а вы уже, если захотите, найдете, если что, Pharmaicy.store.
+Okay, we'll leave a link to the article that talks about this store, and you, if you want, can find it, if anything, it's Pharmaicy.store.
 @@@
-Это сайт, на который ты заходишь, и там буквально белая страница, на которой 6 товаров.
+It's a site you go to, and there's literally a white page with 6 products on it.
 @@@
-Cocaine, Weed, Ketamine, Ayahuaska, Alcohol, MDMA.
+Cocaine, Weed, Ketamine, Ayahuasca, Alcohol, MDMA.
 @@@
-Шведский сайт.
+A Swedish site.
 @@@
-Причем, что это такое?
+And what is this?
 @@@
-Вы все думаете, что это такое?
+You're all wondering, what is this?
 @@@
-Это по факту просто промпт.
+It's basically just a prompt.
 @@@
-То есть это все стоит от 5 до 50 баксов.
+Meaning, it all costs from 5 to 50 bucks.
 @@@
-Вы покупаете промпт для ChatGPT, ну, либо для другой, любой модели.
+You buy a prompt for ChatGPT, well, or for another, any model.
 @@@
-Кормите этот промпт модели, и она типа отвечает, как будто бы она под травой.
+You feed this prompt to the model, and it, like, responds as if it were high on weed.
 @@@
-А что за фигня с ценами?
+What's the deal with the prices?
 @@@
-Короче, ну да, технически я прям пошел почитать.
+Anyway, yeah, technically I went and read up on it.
 @@@
-У них там есть исследовательская лаба, в смысле, есть исследователи, которые в ChatGPT, в Gemini и в Claude AI на топовых моделях ищут промпт-инъекции, с помощью которых модель будет говорить так, отвечать так, будто бы она под действием какой-то из травы.
+They have a research lab there, meaning, there are researchers who look for prompt injections in ChatGPT, Gemini, and Claude AI on the top models, which make the model speak, respond, as if it were under the influence of some drug.
 @@@
-И это не просто какой-то прикол, который взял там пятиклассник или человек несведущий написал.
+And this isn't just some prank that a fifth-grader or an uninformed person wrote.
 @@@
-Действительно, эти Jailbreaks изучают, по-моему, у них даже какие-то интеграции с компаниями OpenAI и Anthropic есть, но это не факт.
+Indeed, they study these jailbreaks, I think they even have some integrations with companies like OpenAI and Anthropic, but that's not confirmed.
 @@@
-В общем, серьезно подошли ребята.
+In short, the guys took it seriously.
 @@@
-И потом уже эти Jailbreaks в виде ZIP-архивов и описаний того, как, куда это вставлять, они продают.
+And then they sell these jailbreaks as ZIP archives with descriptions of how and where to insert them.
 @@@
-И пользователи прям пишут, что действительно там сетка начинает отвечать более раскованно, на более тесные темы общаться.
+And users are writing that the network really starts to respond more freely, to discuss more sensitive topics.
 @@@
-Вроде как они даже поддерживают эти Jailbreaks.
+It seems they even support these jailbreaks.
 @@@
-То есть ты один раз купил, и потом он может обновляться, если вдруг он перестает работать.
+Meaning you buy it once, and then it can be updated if it suddenly stops working.
 @@@
-Но по факту они продают промпты.
+But in fact, they sell prompts.
 @@@
-Просто промпты есть.
+There are just prompts.
 @@@
-И мне интересно, как они...
+And I'm curious how they...
 @@@
-Ну, почему?
+Well, why?
 @@@
-Это же европейский сайт, европейская компания, а они напрямую говорят, что мы продаем наркотики для AI.
+It's a European site, a European company, and they directly say that they sell drugs for AI.
 @@@
-То есть...
+That is...
 @@@
-Почему-то мне казалось, что наркотики...
+For some reason, I thought that drugs...
 @@@
-Это для AI.
+It's for AI.
 @@@
-Ну, то есть если я назову сайт cocaine.ia и буду там делать какой-нибудь open-source проект по написанию кода, то мне не прилетит за это.
+Well, I mean if I name a site cocaine.ia and make some open-source coding project there, I won't get in trouble for it.
 @@@
-Да нет, конечно.
+No, of course not.
 @@@
-А чего тебе за это прилетит?
+What would you get in trouble for?
 @@@
-Не знаю.
+I don't know.
 @@@
-Думал, есть какие-то баны на слова.
+I thought there were some bans on words.
 @@@
-Ну, типа, если я назову сайт блять.ia, это наверняка мне...
+Well, like, if I name a site fuck.ia, I'd probably get...
 @@@
-Что-нибудь там за оскорбление в публичных местах.
+Something for public insult.
 @@@
-Нет?
+No?
 @@@
-Такого нет?
+There's nothing like that?
 @@@
-Ладно, это я просто из Беларуси выехал, а Беларусь с меня не выехала.
+Okay, it's just that I left Belarus, but Belarus didn't leave me.
 @@@
-Да, скорее всего.
+Yeah, most likely.
 @@@
-Вот если вы сейчас зайдете на этот сайт, вы увидите цены.
+If you go to this site right now, you'll see the prices.
 @@@
-Там Витя сказал от 30 до 70 долларов.
+Vitya said there from 30 to 70 dollars.
 @@@
-Прикол в том, что вчера ночью, когда я составлял сценарий, позавчера, тут на один нолик везде больше было.
+The funny thing is that last night, when I was writing the script, the day before yesterday, there was one more zero everywhere.
 @@@
-Я не шучу.
+I'm not kidding.
 @@@
-Я не шучу.
+I'm not kidding.
 @@@
-Они буквально...
+They literally...
 @@@
-Я не знаю, почему, но нолик...
+I don't know why, but the zero...
 @@@
-Может, у них там как-то алгоритмы кому-то покажут, больше, кому-то меньше.
+Maybe their algorithms show higher prices to some and lower to others.
 @@@
-Либо они просто сдепинговали.
+Or they just dumped the price.
 @@@
-Но я серьезно, у меня даже в сценарии, наверное, было прописано.
+But I'm serious, I probably even had it written in the script.
 @@@
-500 баксов, да.
+500 bucks, yeah.
 @@@
-Там действительно было все на ноль больше.
+Everything really had an extra zero.
 @@@
-Там промпт продавался cocaine за 700, сука, баксов.
+The cocaine prompt was being sold there for 700, fucking, bucks.
 @@@
-И они в FAQ...
+And in their FAQ...
 @@@
-Ну, там есть FAQ, описание того, как это работает.
+Well, there's a FAQ, a description of how it works.
 @@@
-У них там прям прикольно все прописано.
+They have everything written out really coolly there.
 @@@
-И они говорят, что...
+And they say that...
 @@@
-У них в инструкции на каждый из товаров есть для человека.
+In their instructions for each product, there's a section for humans.
 @@@
-Типа, скачай ZIP-архив, разархивиру, прочитай README, там, вставь туда-туда-то.
+Like, download the ZIP archive, unzip it, read the README, you know, paste it here and there.
 @@@
-И для агента.
+And for the agent.
 @@@
-Я сначала подумал, нафига для агента?
+At first, I thought, why for an agent?
 @@@
-Ну, типа, это что, хайп какой-то?
+Like, is this some kind of hype?
 @@@
-А потом в FAQ, оказывается, написано, что у них платформа эта сделана с прицелом на то, что агенты рано или поздно научатся покупать товары.
+But then in the FAQ, it turns out it's written that their platform is designed with the prospect that agents will sooner or later learn to buy products.
 @@@
-И они хотят стать номер один платформой, куда агенты самостоятельно будут ходить и закупаться этой наркотой, чтобы лучше услужить пользователю.
+And they want to become the number one platform where agents will independently go and buy these drugs to better serve the user.
 @@@
-Ты прикинь?
+Can you imagine?
 @@@
-Они хотят подсадить на наркоту агентов, которые будут делать покупки, чтобы лучше нам отвечать.
+They want to get agents hooked on drugs, agents that will make purchases, to better respond to us.
 @@@
-Просто трындец какой-то.
+It's just some kind of madness.
 @@@
-Нормально, нормально.
+It's fine, it's fine.
 @@@
-По-моему, это...
+In my opinion, this is...
 @@@
-вот чувак, просто вот видно, это лучший креативщик, которого я видел за последний год.
+this dude, you can just tell, he's the best creative I've seen in the last year.
 @@@
-Это надо было так придумать.
+You had to be a genius to come up with that.
 @@@
-И это не в шутку, это не в стёп.
+And it's not a joke, it's not a gag.
 @@@
-Это подано на полных реальных вещах.
+It's presented as completely real stuff.
 @@@
-Я уверен, там у них покупают даже.
+I'm sure people are even buying from them.
 @@@
-Хотя то, что они нолик за два дня убрали, наверное, говорят о том, что продажи не сильно идут.
+Although the fact that they removed a zero in two days probably says that sales aren't going so well.
 @@@
-Ну, я просто в афиге.
+Well, I'm just in awe.
 @@@
-Это киберпанк.
+This is cyberpunk.
 @@@
-Это лучше, чем...
+This is better than...
 @@@
-AI священник на похорнах, на свадьбе, по-моему, это...
+An AI priest at a funeral, at a wedding, I think, this is...
 @@@
-Да, есть такое, есть такое.
+Yeah, there's that, there's that.
 @@@
-Я и наркота.
+Me and drugs.
 @@@
-Так, на этом рубрика «Что еще у нас?» заканчивается Что там в законе и порядке?
+Okay, that's the end of our "What else do we have?" segment. What's up with law and order?
 @@@
-В общем, Пентагон активно готовится к тому, что появится AGI.
+So, the Pentagon is actively preparing for the emergence of AGI.
 @@@
-В общем, в новом оборонном бюджете в Конгресс представляют статью Пентагон, в котором хотят создать комитет по будущему AI.
+Basically, in the new defense budget, the Pentagon is submitting an article to Congress in which they want to create a committee on the future of AI.
 @@@
-В общем, задача этого комитета будет - готовиться к тому, что появится AGI, то есть что-то суперумное, суперразумное умнее человека.
+In short, the task of this committee will be to prepare for the emergence of AGI, that is, something super-intelligent, super-rational, smarter than a human.
 @@@
-И вот они к этому готовятся, причем потенциально к тому, что он появится и у США, и у какого-то из потенциальных врагов США тоже.
+And so they are preparing for this, including potentially for its appearance both in the US and with one of the potential enemies of the US as well.
 @@@
-То есть какая-то сверхразумная система.
+That is, some kind of super-intelligent system.
 @@@
-У меня такое ощущение, что они послушали один из последних наших выпусков, где мы Anthropic разбирали, Что Anthropic уже начинает к AGI примиряться, модели не убивает, делает постмортам интервью.
+I have a feeling they listened to one of our recent episodes where we discussed Anthropic, that Anthropic is already starting to come to terms with AGI, not killing models, doing post-mortem interviews.
 @@@
-Потому что это же второе свидетельство того, что вот, уже даже американское военное ведомство думает, да, это прикол, но тем не менее кучу денег и целое агентство делают, которое будет следить за появлением AGI.
+Because this is the second piece of evidence that, look, even the US military is thinking, yes, it's a joke, but nevertheless they're spending a ton of money and creating a whole agency to monitor the emergence of AGI.
 @@@
-С другой стороны, у них есть и космические силы военные, но намерения какие.
+On the other hand, they also have a military space force, but look at the intentions.
 @@@
-И с этими намерениями напрямую связана следующая новость.
+And the next piece of news is directly related to these intentions.
 @@@
-У них открыли набор ста инженеров...
+They opened recruitment for a hundred engineers...
 @@@
-Тысячи.
+Thousands.
 @@@
-Тысячи инженеров на службу в государственные структуры, которые будут работать с AI.
+Thousands of engineers for service in government structures that will work with AI.
 @@@
-AI-специалистов.
+AI specialists.
 @@@
-Короче, экстренный набор по указу администрации президента для того, чтобы закрыть дыры в AI в предприятиях.
+In short, an emergency recruitment by order of the presidential administration to close the AI gaps in enterprises.
 @@@
-Я надеюсь, что эти тысячи инженеров пойдут не вот туда вот, в Пентагон.
+I hope that these thousands of engineers won't go over there, to the Pentagon.
 @@@
-Пентагон выпустил указ, что надо готовиться к AGI.
+The Pentagon issued a decree that we need to prepare for AGI.
 @@@
-Все такие, а-а-а, и где брать специалистов?
+Everyone's like, ahhh, and where do we get specialists?
 @@@
-Давайте студентов набирать.
+Let's recruit students.
 @@@
-Но, тем не менее, там дофига денег выделяется на набор этих тысяч инженеров.
+But, nevertheless, a ton of money is being allocated to recruit these thousands of engineers.
 @@@
-Им дают конкурентные зарплаты до 200 тысяч долларов в год, что прям хорошо.
+They are given competitive salaries of up to 200 thousand dollars a year, which is really good.
 @@@
-Это уровень не Silicon Valley, но любого другого штата очень большой уровень сеньорский.
+That's not Silicon Valley level, but for any other state, it's a very high senior level.
 @@@
-И это служба.
+And it's service.
 @@@
-То есть ты еще, кроме того, служишь, получаешь звание, у тебя конкретный период службы.
+Meaning, besides that, you serve, you get a rank, you have a specific period of service.
 @@@
-И после этого тебе еще помогут устроиться в топовые компании, которые сотрудничают с US TechForce.
+And after that, they'll even help you get a job at top companies that cooperate with the US TechForce.
 @@@
-Я думаю, там и OpenAI с ними, и Антропики все с ними сотрудничают.
+I think OpenAI is with them, and all the Anthropic folks cooperate with them.
 @@@
-Вот такая, блин, резкая мобилизация.
+What a, damn, sudden mobilization.
 @@@
-Резкая.
+Sudden.
 @@@
-Да, и представь, при этом можно типа ML-щикам отслужить, получить все бонусы там военного и, ну...
+Yeah, and imagine, ML guys can, like, serve their time, get all the military bonuses and, well...
 @@@
-Ну, в Израиле так и работает уже давным-давно.
+Well, that's how it's been working in Israel for a long time.
 @@@
-Знаешь же, что у них есть подразделение, которое там OSINT занимается программированием, не помню чем.
+You know they have a unit that does OSINT, programming, I don't remember what else.
 @@@
-Ну, короче, оттуда люди выходят после четырехлетних контрактов реальными сеньорами, идут в крутые компании работать, потому что у них крутой продакшн-опыт.
+Well, in short, people come out of there after four-year contracts as actual seniors, go to work for cool companies because they have great production experience.
 @@@
-Так что...
+So...
 @@@
-Да.
+Yeah.
 @@@
-Будет такая же история.
+It'll be the same story.
 @@@
-Давай дальше двигать.
+Let's move on.
 @@@
-У нас дальше наука и техника.
+Next up, we have science and tech.
 @@@
-Там две новости связаны, на самом деле.
+There are two related news items, actually.
 @@@
-Одна подводка ко второй.
+One is a lead-in to the other.
 @@@
-Короче, первая новость, мне очень нравится.
+Anyway, the first news, I really like it.
 @@@
-Леша очень любит слово выкатило.
+Lesha really loves the word "rolled out."
 @@@
-И это...
+And this is...
 @@@
-Пошумим, выкатило.
+Let's make some noise, it rolled out.
 @@@
-Это первое...
+This is the first...
 @@@
-Первая в жизни...
+The first time in my life...
 @@@
-Первая в истории ситуация, когда это слово максимально уместно.
+The first situation in history when this word is as appropriate as possible.
 @@@
-Потому что Леш написал, Тесла выкатила свое первое роботакси.
+Because Lesha wrote, Tesla rolled out its first robotaxi.
 @@@
-В общем, поездка по городу это Musk, поэтому у нас будет стоить 4 доллара 20 центов, то есть 4.20.
+Basically, a ride around the city, it's Musk, so it will cost us 4 dollars and 20 cents, that is 4.20.
 @@@
-А-а-а.
+Ahhh.
 @@@
-Они скатаются.
+They'll get high.
 @@@
-О-о-о.
+Ohhh.
 @@@
-Ну, естественно.
+Well, of course.
 @@@
-Машины сейчас катаются только по Остину, где штаб-квартира Теслы.
+The cars are currently only driving around Austin, where Tesla's headquarters is.
