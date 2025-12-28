@@ -28,7 +28,7 @@ This repository is dedicated to preparing subtitles as part of working with fore
 
 ## Subtitle Creation Process
 
-The following optimal process has been established for creating subtitles, leveraging Subtitle Edit and a modified Whisper utility (supporting word-by-word mode).
+The following optimal process has been established for creating subtitles, leveraging [Subtitle Edit](https://github.com/SubtitleEdit) and a modified Whisper utility (supporting word-by-word mode).
 
 ### 1. Acquisition
 Receive video or audio recordings (mp3/mp4) using tools like **Open-Video-Downloader** or **NewPipe**. Low resolution is sufficient for this purpose.
@@ -38,7 +38,7 @@ For very long recordings, use **LosslessCut** to split the file along Chapter bo
 
 ### 3. Recognition
 Generate text from the audio track.
-*   **Tools**: Subtitle Edit or `20250228230803-whisper` (Faster-Whisper).
+*   **Tools**: [Subtitle Edit](https://github.com/SubtitleEdit) or `20250228230803-whisper` (Faster-Whisper).
 *   **Settings**: `--threads 8 --one_word 2`
 *   **Output**: An SRT file with word-by-word subtitles (initial **v1**), offering maximum flexibility.
 
