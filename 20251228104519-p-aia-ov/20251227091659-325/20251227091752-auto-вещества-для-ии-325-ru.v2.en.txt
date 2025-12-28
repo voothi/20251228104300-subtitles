@@ -2904,346 +2904,344 @@ Well, of course.
 @@@
 The cars are currently only driving around Austin, where Tesla's headquarters is.
 @@@
-И пока что в салоне сидит человек но на пассажирском сидении, если что.
+And for now, there's a person in the car, but in the passenger seat, just so you know.
 @@@
-Но обещают, что в 26-м году уже будут автономные Cybercab, в которых аж не будет даже руля и педалей.
+But they promise that in '26 there will be autonomous Cybercabs, which won't even have a steering wheel or pedals.
 @@@
-Интересно, как они законодательно это проведут.
+I wonder how they will get that through legislation.
 @@@
-Это же наличие руля и педалей в транспортных средствах зафиксировано во многих законодательствах.
+The presence of a steering wheel and pedals in vehicles is fixed in many laws.
 @@@
-Не знаю, правда, в каких.
+I don't know which ones, though.
 @@@
-Вроде бы.
+It seems so.
 @@@
-Пролабируют.
+They'll lobby for it.
 @@@
-Ну, в Европу сложно было кибертрак привезти, в том числе, потому что у него там руль нестандартный, еще что-то.
+Well, it was difficult to bring the Cybertruck to Europe, partly because its steering wheel is non-standard, and other things.
 @@@
-Может, в Европе такие правила.
+Maybe Europe has such rules.
 @@@
-Посмотрим.
+We'll see.
 @@@
-А следующая новость, она вообще, конечно, и страшная, и смешная.
+And the next news is, of course, both scary and funny.
 @@@
-Если вы думали, что самоуправляемое такси это все еще какая-то диковинка, то вот вам нет.
+If you thought self-driving taxis were still some kind of novelty, well, you're wrong.
 @@@
-В США, в Сан-Франциско 20 декабря были веерные отключения электричества.
+In the USA, in San Francisco, on December 20th, there were rolling blackouts.
 @@@
-Почему?
+Why?
 @@@
-Не знаю.
+I don't know.
 @@@
-Можете почитать в оригинальной статье.
+You can read about it in the original article.
 @@@
-Но, тем не менее, по частям в городе отключался свет.
+But, nevertheless, the power went out in parts of the city.
 @@@
-125 тысяч домов подверглись этим отключениям.
+125,000 homes were affected by these outages.
 @@@
-И внезапным следствием этих отключений стало то, что в городе просто встали на месте, на аварийках все машины Waymo.
+And a sudden consequence of these outages was that all the Waymo cars in the city just stopped right where they were, with their hazard lights on.
 @@@
-И из-за этих машин Waymo просто все движение практически остановилось.
+And because of these Waymo cars, practically all traffic came to a halt.
 @@@
-Произошло это очень по простой причине.
+This happened for a very simple reason.
 @@@
-Waymo, естественно, как роботакси, связывается с центральными серверами, чтобы следить за обстановкой,
+Waymo, naturally, as a robotaxi, communicates with central servers to monitor the situation,
 @@@
-чтобы даже там считывать какие-то эджкейсы, которые она не понимает.
+to even read some edge cases that it doesn't understand.
 @@@
-И в итоге, когда верные отключения начали случаться, компания Waymo решила, что будет слишком небезопасно оставлять машины на локальном автопилоте.
+And so, when the rolling blackouts started happening, Waymo decided it would be too unsafe to leave the cars on local autopilot.
 @@@
-И просто решила одним тыком все машины поставить на аварийках, что де-факто привело к тому, что машины просто остановились, где они ехали и включили аварийки.
+And they just decided with one click to put all the cars on their hazard lights, which de facto led to the cars just stopping where they were driving and turning on their hazards.
 @@@
-Блин, могли бы хотя бы дать им команду припарковаться в ближайшем месте.
+Damn, they could have at least given them a command to park in the nearest spot.
 @@@
-Ну, понимаешь, когда у тебя веерное отключение случается, до парковки все равно там нет-нет до нескольких сотен метров ехать.
+Well, you know, when a rolling blackout happens, it's still a few hundred meters to the nearest parking spot.
 @@@
-Если случится авария по вине Waymo в этот момент, то Waymo понесет кучу судебных издержек.
+If an accident happens because of Waymo at that moment, Waymo will face a ton of legal costs.
 @@@
-Наверное, сильно больше, чем то, что они заблокировали полгорода.
+Probably much more than the cost of them blocking half the city.
 @@@
-Но видосов в инстаграмах просто куча, где эти Waymo стоят друг за другом, на поворотах, все их объезжают, там просто какой-то трэш творится.
+But there are a ton of videos on Instagram where these Waymos are standing one after another, on turns, everyone is driving around them, it's just some kind of chaos going on.
 @@@
-И вот вам, пожалуйста, просто отключили электричество.
+And there you have it, they just shut off the electricity.
 @@@
-И город стоит.
+And the city is at a standstill.
 @@@
-Ну да, но ничего, это edge case, они его пофиксят, следующим отключением и нормально будут ездить.
+Well yeah, but it's okay, it's an edge case, they'll fix it, and by the next outage they'll be driving fine.
 @@@
-Ну, посмотрим, посмотрим.
+Well, we'll see, we'll see.
 @@@
-Ладненько, на этом у нас...
+Alright, with that, our...
 @@@
-Наши основные рубрики сегодня закончены.
+Our main segments for today are finished.
 @@@
-Сегодня у нас не будет этики, потому что в прошлый раз мы хотели...
+We won't have an ethics section today, because last time we wanted to...
 @@@
-Я хотел закончить на позитивной ноте, но эти в итоге закончили на убийствах.
+I wanted to end on a positive note, but we ended up finishing with murders.
 @@@
-В этот раз мы не повторим этой ошибки.
+We won't repeat that mistake this time.
 @@@
-У нас сегодня будет небольшой блок со статистикой за 25-й год, потому что много кто статистики там подводил, и сейчас мы несколько этих статистик разберем и на этом, в этом году закончим.
+Today we'll have a small block with statistics for '25, because many people have been summarizing stats, and now we'll go over a few of these stats and with that, we'll finish for this year.
 @@@
-А, еще в конце вас ожидает два подарочка.
+Oh, and at the end, two little gifts await you.
 @@@
-Один подарочек и тизер нашего премиум-выпуска про Ave Maria, так что не уходите.
+One little gift and a teaser for our premium episode about Ave Maria, so don't go anywhere.
 @@@
-Все так, все так.
+That's right, that's right.
 @@@
-Ну что, у нас статистика, как изменилось количество юзеров популярных AI-чат-сервисов за год.
+So, we have statistics on how the number of users of popular AI chat services has changed over the year.
 @@@
-В лидерах, кто бы вы думали, волшебный ChatGPT.
+In the lead, who would you think, the magical ChatGPT.
 @@@
-Тут далеко не надо ходить.
+You don't have to look far for that one.
 @@@
-Да.
+Yep.
 @@@
-В январе у них было почти 360 миллионов юзеров, а в ноябре 25-го 810 миллионов юзеров.
+In January, they had almost 360 million users, and in November of '25, 810 million users.
 @@@
-Пипец, почти миллиард.
+Holy crap, almost a billion.
 @@@
-Почти миллиард пользователей.
+Almost a billion users.
 @@@
-И это же при том, что это практически все уникальные пользователи.
+And this is considering that these are almost all unique users.
 @@@
-Но я не представляю кейсы, когда тебе нужны боты в ChatGPT.
+But I can't imagine cases where you would need bots in ChatGPT.
 @@@
-Еще их с системой регистрации.
+Especially with their registration system.
 @@@
-Так, так, так.
+Okay, okay, okay.
 @@@
-Следующая популярность это Google Gemini.
+Next in popularity is Google Gemini.
 @@@
-Но с очень большим отставанием у них на ноябрь 25-го года 346 миллионов пользователей против соответствия 810.
+But with a very large gap, they have 346 million users as of November '25, compared to 810.
 @@@
-Ну, скорость у них примерно такая же.
+Well, their growth rate is about the same.
 @@@
-Просто чуть-чуть ниже.
+Just a little bit lower.
 @@@
-Типа в два раза, два с чем-то.
+Like, two times, two-something times less.
 @@@
-Да, скорость такая же.
+Yeah, the rate is the same.
 @@@
-Так и есть.
+That's how it is.
 @@@
-Вот следующий внезапно 365 Copilot Microsoft.
+Next up, surprisingly, is 365 Copilot from Microsoft.
 @@@
-Но, понятно, из-за внедрения в Microsoft продукты корпоративную среду и прочее.
+But, that's understandable, due to its integration into Microsoft products, the corporate environment, and so on.
 @@@
-Да, но у них рост интересный.
+Yeah, but their growth is interesting.
 @@@
-У них было в январе 25-го года 218 миллионов юзеров.
+They had 218 million users in January '25.
 @@@
-А вот уже в ноябре 25-го года 212.
+And then in November '25, they had 212.
 @@@
-Это очень похоже на то, как наш телеграм-чатик растет, честно говоря.
+That looks a lot like how our Telegram chat is growing, to be honest.
 @@@
-Кстати, да.
+By the way, yeah.
 @@@
-Я думаю, откуда ноги?
+I was wondering where that was coming from.
 @@@
-Вот откуда.
+That's where.
 @@@
-Да.
+Yeah.
 @@@
-Но оно там падало еще до 198, но потом опять отросло.
+But it dropped even further to 198, but then grew back again.
 @@@
-У них Bing точно так же.
+Their Bing is exactly the same.
 @@@
-Если помнишь, внедрил и я, и резко возрос, а потом просто падал.
+If you remember, I implemented it too, and it surged, and then just fell.
 @@@
-Типа будто бы они что-то выкатывают, и у них все падает.
+Like it seems they roll something out, and everything drops for them.
 @@@
-Ну, странно, но ладно.
+Well, it's weird, but okay.
 @@@
-Скорее всего, да.
+Most likely, yes.
 @@@
-Но из прикольного, из прикольного Perplexity по количеству юзеров популярней и Grok и Claude.
+But on the cool side, the cool thing is Perplexity is more popular than both Grok and Claude in terms of user count.
 @@@
-Я с Perplexity вообще на самом деле офигел, потому что Perplexity еще к тому же показал второй по скорости темп роста.
+I was actually blown away by Perplexity, because Perplexity also showed the second-fastest growth rate.
 @@@
-Они выросли в три, почти в четыре раза.
+They grew by three, almost four times.
 @@@
-Это быстрее, чем ChatGPT, быстрее, чем Gemini.
+That's faster than ChatGPT, faster than Gemini.
 @@@
-Ну, а то, что они популярнее Grok и Claude, вот с игроком понятно, игрок вышел достаточно позже в Perplexity.
+Well, as for them being more popular than Grok and Claude, with Grok it's understandable, Grok came out much later than Perplexity.
 @@@
-У Perplexity конкурентов в их нише, как таковых, нету, кроме Гугла.
+Perplexity has no real competitors in its niche, except for Google.
 @@@
-Но вот то, что у Claude так мало пользователей, Claude AI, в смысле их чат-бот, я не думал.
+But the fact that Claude has so few users, Claude AI, I mean their chatbot, I didn't expect that.
 @@@
-Я прям думал, что это у меня какая-то странная...
+I really thought I had some kind of weird...
 @@@
-Буквально 11 миллионов.
+Literally 11 million.
 @@@
-11 миллионов, это...
+11 million, that's...
 @@@
-На ноябрь 25-го года.
+As of November '25.
 @@@
-80 раз меньше, чем в ChatGPT.
+80 times less than ChatGPT.
 @@@
-Да.
+Yeah.
 @@@
-Но при этом Claude с Anthropic зарабатывают на API.
+But at the same time, Claude from Anthropic makes money from their API.
 @@@
-Но я теперь понимаю, что их чат-интерфейс не только у меня не популярен, не только я им не плачу.
+But now I understand that their chat interface isn't just unpopular with me, it's not just me who doesn't pay for it.
 @@@
-Но...
+But...
 @@@
-Grok, посмотри, какие цифры, это трындец.
+Grok, look at those numbers, it's insane.
 @@@
-Ну, в январе 25-го года был миллион, и это странно, откуда там вообще миллион набрался, честно говоря.
+Well, in January '25 it was a million, and that's strange, where that million even came from, to be honest.
 @@@
-А вот в ноябре 25-го года уже 34 миллиона.
+But in November '25, it was already 34 million.
 @@@
-34 раза вырос.
+It grew 34 times.
 @@@
-Ну, хотя, с другой стороны, он же там в начале года только-только появлялся, поэтому, наверное, и понятно, почему такой рост.
+Well, although, on the other hand, it was just appearing at the beginning of the year, so that's probably why the growth is so significant.
 @@@
-Но Perplexity молодцы.
+But Perplexity, good for them.
 @@@
-Молодцы.
+Good for them.
 @@@
-Короче, напишите ваши мысли, чем вы пользуетесь.
+Anyway, write your thoughts, what do you use.
 @@@
-У тебя статистика сошлась с тем, чем ты пользуешься?
+Do the statistics match up with what you use?
 @@@
-У меня вот один в один же.
+For me, it's a one-to-one match.
 @@@
-У меня первое место ChatGPT, второе место Gemini.
+For me, first place is ChatGPT, second place is Gemini.
 @@@
-Grok один раз заплатил, попробовал.
+Grok, paid once, tried it.
 @@@
-Заплатил за А, не попробовал, не пользуюсь.
+Paid for X, didn't try it, don't use it.
 @@@
-Perplexity, в прошлом году пользовался, в этом году подписка закончилась, халявная, не пользуюсь.
+Perplexity, used it last year, this year the free subscription ended, don't use it.
 @@@
-Gemini, закончится халявная подписка, скорее всего, тоже не буду пользоваться.
+Gemini, when the free subscription ends, I probably won't use it either.
 @@@
-У меня плюс-минус один в один.
+It's more or less one-to-one for me.
 @@@
-Единственное, что за Perplexity мне платят Revolut.
+The only thing is that Revolut pays for my Perplexity.
 @@@
-А так...
+But other than that...
 @@@
-Хотя нет, за Gemini, наверное, все-таки буду платить.
+Although no, I'll probably still pay for Gemini after all.
 @@@
-Он хороший текст пишет.
+It writes good text.
 @@@
-Ок, спасибо Revolut.
+Ok, thanks Revolut.
 @@@
-И заметь, ни ты, ни я, и Microsoft Copilot там 365 не пользовались.
+And notice, neither you nor I have used Microsoft Copilot 365.
 @@@
-Наверное, те, кто на MacBook сидят.
+Probably those who are on MacBooks.
 @@@
-Я пользовался на работе по приколу.
+I used it at work just for fun.
 @@@
-А, да?
+Oh, really?
 @@@
-Короче, но не знаю, короче.
+Anyway, but I don't know, anyway.
 @@@
-Ну, вместе для меня ...
+Well, together for me... there.
 @@@
-там.
+Okay.
 @@@
-Хорошо.
+Then I'll talk about something I've wanted to talk about for a long time.
 @@@
-Я тогда расскажу про то, что давно хотел рассказать.
+I've wanted to somehow bring up the phrase AI Slop in our podcast for a very long time.
 @@@
-Я давным-давно хотел в нашем подкасте как-то приплести словосочетание AI Slop.
-@@@
-Потому что оно много где встречается.
+Because you see it in a lot of places.
 @@@
 Slop.
 @@@
 Slop.
 @@@
-Slop, правильно.
+Slop, that's right.
 @@@
-Ну, я не знаю, я Slop всегда говорю.
+Well, I don't know, I always say Slop.
 @@@
-Короче, Slop, Slop.
+Anyway, Slop, Slop.
 @@@
-Много кто не знает, что это такое.
+A lot of people don't know what it is.
 @@@
-Я на самом деле тоже, ну, я знал смысл, но не знал, что это помои, во-первых.
+I actually didn't either, well, I knew the meaning, but I didn't know it meant "swill," first of all.
 @@@
-Slop, это помои.
+Slop, it's swill.
 @@@
-Во-вторых, этим словом, этим словосочетанием и словом «Slop» в этом году называют низкокачественный цифровой контент.
+Secondly, this year, this word, this phrase and the word "Slop" are used to refer to low-quality digital content.
 @@@
-В основном это касается всяких всратых видосов, картинок.
+Mostly it refers to all sorts of crappy videos, images.
 @@@
-К тексту я тоже видел применение, к журналистским текстам, которые явно сделаны с помощью AI.
+I've also seen it applied to text, to journalistic texts that are clearly made with AI.
 @@@
-Короче, когда вы явно видите, что это сделано некачественно, и с помощью AI - это Slop.
+In short, when you can clearly see that it's poorly made, and with the help of AI - that's Slop.
 @@@
-Качественный контент AI и Slop.
+Quality AI content and Slop.
 @@@
-Потому что слово Slop было и раньше, и оно обозначало херовый контент.
+Because the word Slop existed before, and it meant crappy content.
 @@@
-Так вот, фигня в том, что в этом году словарь Slop, мы каждый год смотрим, что он там признает.
+So, the thing is, this year the dictionary Slop, we check every year what it recognizes.
 @@@
-В прошлом году я не помню, что у них было.
+Last year, I don't remember what they had.
 @@@
-Надо посмотреть по сценариям.
+I need to check the scripts.
 @@@
-Наверное, трансформер какой-нибудь.
+Probably "transformer" or something.
 @@@
-Короче, в этом году слово «года» — это «слоп».
+Anyway, this year the word of the year is "slop."
 @@@
-И именно в значении массово создаваемого низкокачественного цифрового контента.
+And specifically in the meaning of mass-produced, low-quality digital content.
 @@@
-Вот.
+There.
 @@@
-Ну вот, в какие времена...
+Well, what times we live in...
 @@@
-Что неудивительно, учитывая количество яйного контента, которое нас заполонило.
+Which is not surprising, considering the amount of AI content that has flooded us.
 @@@
-Наверное, да.
+Probably, yes.
 @@@
-Наверное, да.
+Probably, yes.
 @@@
-Просто меня смущает, что среди всех слов именно AI, AI Slop завирусился.
+It just confuses me that of all the words, it was AI, AI Slop, that went viral.
 @@@
-Потому что, ну, это говорит, что я вообще все заполонил.
+Because, well, it says that AI has taken over everything.
 @@@
-Ну, во-первых, все заполонило, во-вторых, это то, что массово затронуло всех, потому что это наше с тобой программирование, оно на самом деле, как в том меме, не нужно по сравнению с количеством контента, которое создается.
+Well, first, it has taken over everything, and second, it's something that has massively affected everyone, because our programming, yours and mine, is actually, like in that meme, useless compared to the amount of content being created.
 @@@
-Ну, Витя, в прошлом году, я посмотрел, было слово polarization, типа поляризация левая-правая, там двухсторонний мир, Китай-США, противостояние.
+Well, Vitya, last year, I checked, the word was polarization, like left-right polarization, the two-sided world, China-USA, confrontation.
 @@@
-Ну, да.
+Well, yeah.
 @@@
-То есть, там были какие-то слова с AI связаны, но не от Merriam-Webster Нет, так просто ты не представляешь, сколько этого контента появилось.
+I mean, there were some words related to AI, but not from Merriam-Webster. No, you just can't imagine how much of this content has appeared.
 @@@
-Его очень много, его миллионы, миллионы миллиардов.
+There's a lot of it, millions, millions of billions.
 @@@
-Ну, да, мы с тобой ведущая популярнейшего подкаста про AI, мы с тобой не понимаем.
+Well, yeah, we're the hosts of a super popular podcast about AI, and we don't understand.
 @@@
-Да.
+Yes.
 @@@
-Вот даже мы не понимаем, чего вы что-то говорите.
+Even we don't understand what you're talking about.
 @@@
-Ну, ладно.
+Well, okay.
 @@@
-Ну, знайте, я и Slop.
+Well, you know, AI and Slop.
 @@@
-Да.
+Yeah.
 @@@
-И закончим последним итогом года.
+And let's finish with the last summary of the year.
 @@@
-Журнал Time, как обычно, выбрал персону года.
+Time magazine, as usual, chose its Person of the Year.
 @@@
-И ставь лайк, если помнишь, как Леша бомбил от того, что Тейлор Свифт выбрали в прошлом году.
+And hit like if you remember how Lesha was raging about Taylor Swift being chosen last year.
 @@@
-А это тогда было, да?
+Oh, that was then, right?
 @@@
-Да.
+Yes.
 @@@
-И Сэма Альтмана.
+And Sam Altman.
 @@@
-В этом году Time удовлетворил Лешу, я надеюсь.
+This year, Time satisfied Lesha, I hope.
 @@@
-Но выбрал не Альтмана, а AI-лидеров года.
+But they didn't choose Altman, but the AI Leaders of the Year.
 @@@
-Там причем прикольная картинка, как они...
+And there's a cool picture of how they...
