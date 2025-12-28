@@ -17,6 +17,7 @@ This repository is dedicated to preparing subtitles as part of working with fore
     *   [7. Translation](#7-translation)
     *   [8. Verification](#8-verification)
     *   [9. YouTube Studio Upload](#9-youtube-studio-upload)
+    *   [10. Learning Integration (Anki)](#10-learning-integration-anki)
 *   [Notes](#notes)
 *   [Kardenwort Ecosystem](#kardenwort-ecosystem)
 *   [License](#license)
@@ -80,6 +81,11 @@ Finalize the process by making the subtitles available on YouTube.
 *   **Upload File**: Choose "Upload file" and select the **v2** (or translated `.en`) SRT file.
 *   **Sync**: Choose "With timing" to ensure the internal SRT timestamps are used.
 *   **Publish**: Review and publish to make them live.
+
+### 10. Learning Integration (Anki)
+The finalized **v2** subtitles can be used for language learning.
+*   **Deck Preparation**: Use the subtitle text to break down and prepare an Anki deck using **Kardenwort**.
+*   **Word Processing**: Process each word using the [IntelliFiller AI](https://github.com/voothi/20251206123938-intellifiller-ai-addon-for-anki/tree/main) Anki add-on to automatically fill in card details and context.
 
 [Return to Top](#table-of-contents)
 
