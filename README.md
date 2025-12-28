@@ -43,7 +43,7 @@ For very long recordings, use [LosslessCut](https://github.com/mifi/lossless-cut
 
 ### 3. Recognition
 Generate text from the audio track.
-- **Tools**: [Subtitle Edit](https://github.com/SubtitleEdit) or [Whisper Audio Recorder & Transcriber](https://github.com/voothi/20250228230803-whisper) (Faster-Whisper).
+- **Tools**: [Subtitle Edit](https://github.com/SubtitleEdit) or [Whisper Audio Recorder & Transcriber](https://github.com/voothi/20250228230803-whisper) (Faster-Whisper, recommended model: `large-v3-turbo`).
 - **Settings**: `--threads 8 --one_word 2`
 - **Output**: An SRT file with word-by-word subtitles (initial **v1**), offering maximum flexibility.
 
@@ -66,7 +66,9 @@ Generate text from the audio track.
 ### 7. Translation
 - Use **Subtitle Edit**'s **Auto-translate / Auto-translate via Copy-Paste...**.
 - **Service**: [aistudio.google.com](https://aistudio.google.com) (Gemini 2.5 Pro).
-- **Prompt**: [`docs/prompts/20251108170321-translation-into-english.md`](docs/prompts/20251108170321-translation-into-english.md).
+- **Prompts**:
+    - English: [`docs/prompts/20251108170321-translation-into-english.md`](docs/prompts/20251108170321-translation-into-english.md)
+    - Belarusian: [`docs/prompts/20251108170321-translation-into-belarusian.md`](docs/prompts/20251108170321-translation-into-belarusian.md)
 - **Settings**: Max block size 5000-10000, empty model context.
 - **Format**: Line separator `@@@`.
 - **Output**: Save with `.en` postfix (e.g., `filename.v2.en.srt`).
