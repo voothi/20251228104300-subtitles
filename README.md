@@ -42,6 +42,7 @@ Generate text from the audio track.
 ### 7. Translation
 *   Use **Subtitle Edit**'s **Auto-translate / Auto-translate via Copy-Paste...**.
 *   **Service**: `aistudio.google.com` (Gemini 2.5 Pro).
+*   **Prompt**: [`docs/prompts/20251108170321-translation-into-english.md`](docs/prompts/20251108170321-translation-into-english.md).
 *   **Settings**: Max block size 5000-10000, empty model context.
 *   **Format**: Line separator `@@@`.
 *   **Output**: Save with `.en` postfix (e.g., `filename.v2.en.srt`).
