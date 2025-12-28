@@ -1,11 +1,28 @@
 # Subtitles Repository
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
+
 This repository is dedicated to preparing subtitles as part of working with foreign languages and testing Kardenwort tools.
+
+## Table of Contents
+
+*   [Directory Overview](#directory-overview)
+*   [Subtitle Creation Process](#subtitle-creation-process)
+    *   [1. Acquisition](#1-acquisition)
+    *   [2. Slicing (Optional)](#2-slicing-optional)
+    *   [3. Recognition](#3-recognition)
+    *   [4. Version Control](#4-version-control)
+    *   [5. Correction](#5-correction)
+    *   [6. Sentence Merging](#6-sentence-merging)
+    *   [7. Translation](#7-translation)
+    *   [8. Verification](#8-verification)
 
 ## Directory Overview
 
 *   `20251223140658-lab`: Test records.
 *   `20251228104519-p-aia-ov`: Podcast content [https://podcast.onvibe.io/](https://podcast.onvibe.io/)
+
+[Return to Top](#table-of-contents)
 
 ## Subtitle Creation Process
 
@@ -50,5 +67,7 @@ Generate text from the audio track.
 ### 8. Verification
 *   **Integrity**: Create a hash sum of the audio file (using 7z) to ensure subtitle synchronization.
 *   **Review**: View double subtitles in a suitable player (e.g., Chrome with [asbplayer](https://github.com/killergerbah/asbplayer) plugin).
+
+[Return to Top](#table-of-contents)
 
 For more details, see [RFC 20251228193409](docs/rfcs/20251228193409-doc-subtitle-process.md).
