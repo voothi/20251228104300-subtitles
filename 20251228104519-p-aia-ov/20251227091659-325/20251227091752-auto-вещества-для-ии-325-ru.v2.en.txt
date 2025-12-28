@@ -1088,322 +1088,322 @@ It seems to me that for them, it's the same field of incomprehensible things, so
 @@@
 More or less, yeah, I think, more or less.
 @@@
-Поэтому, вот, инструмент хороший, если вы Gemini CLI пользуетесь, попробуйте его.
+So, here's a good tool, if you use the Gemini CLI, give it a try.
 @@@
-В принципе, его заменители есть, но он неплохой.
+In principle, there are alternatives to it, but it's not bad.
 @@@
-А вот то, что они новояз изобретают, вот это выйдет странновато, как по мне.
+But the fact that they're inventing newspeak, that seems a bit weird to me.
 @@@
-Вот, такая новость.
+So, that's the news.
 @@@
-Ну, напишите в комментариях, если вы знаете, чем отличается SDD от CDD.
+Well, write in the comments if you know what the difference is between SDD and CDD.
 @@@
-Может быть, все-таки есть какие-то отличия?
+Maybe there are some differences after all?
 @@@
-Буквой.
+The letter.
 @@@
-Ладно.
+Alright.
 @@@
-А у нас дальше новости про Google, потому что внезапно Google вспомнил, что у него есть Google Translate, и что туда еще толком не добрались LLM.
+And next up, we have news about Google, because suddenly Google remembered that it has Google Translate, and that LLMs haven't really made it there yet.
 @@@
-И Google внедряет Gemini в Translate.
+And Google is integrating Gemini into Translate.
 @@@
-Я, причем, так и не понял.
+And I, for one, still don't get it.
 @@@
-То есть написано, что вроде как для перевода всяких сленга и идиом.
+That is, it's written that it's supposedly for translating all sorts of slang and idioms.
 @@@
-То есть, наверное, Gemini полностью не будет переводить текст пока что.
+So, Gemini probably won't be translating the entire text for now.
 @@@
-Но, тем не менее, эта штука раскатывается.
+But, nevertheless, this thing is being rolled out.
 @@@
-Они не сказали в статье, в видосах, они не сказали, как это будет происходить.
+They didn't say in the article, in the videos, they didn't say how this will happen.
 @@@
-То есть это будет неявно для пользователя.
+Meaning it will be implicit for the user.
 @@@
-Мы не будем знать, что там под капотом алгоритмы, какие-то статические, статические или модели.
+We won't know what's under the hood—algorithms, some static ones, static or models.
 @@@
-Но раскатывают этот функционал.
+But they are rolling out this functionality.
 @@@
-Ну, короче, да расскажи, а потом дам фидбэк небольшой.
+Well, in short, yeah, tell me, and then I'll give a little feedback.
 @@@
-Ну, и еще одна история, что Google вспомнил, что Apple зарелизил фичу Live Translate, переводы через наушники.
+Well, and another story is that Google remembered that Apple released the Live Translate feature, translations through headphones.
 @@@
-И говорит, а мы то же самое сделаем, только вообще через любые наушники.
+And they say, we'll do the same thing, but through any headphones at all.
 @@@
-Не только через...
+Not just through...
 @@@
-даже и через AirPods, и вообще через что угодно.
+even through AirPods, and through anything at all.
 @@@
-Просто откройте приложение Google Translate, и там будет работать вот такой живой перевод, как у Apple.
+Just open the Google Translate app, and a live translation like Apple's will work there.
 @@@
-При этом Speech-to-speech на лету уже много где есть.
+At the same time, on-the-fly speech-to-speech already exists in many places.
 @@@
-Да, по факту у Google просто дополнительную кнопку надо было добавить.
+Yeah, in fact, Google just needed to add an extra button.
 @@@
-У них же есть...
+They already have...
 @@@
-был уже этот режим, когда нажимаешь говорить, говоришь, он переводит, текстом озвучивает.
+they already had this mode where you press to speak, you speak, it translates, and voices it as text.
 @@@
-Ну, да.
+Well, yes.
 @@@
-Весь этот функционал они раскатывают пока что только на Америку и на Индию.
+They are rolling out all this functionality for now only in America and India.
 @@@
-Кстати, забавно, что Google стал Индию везде включать.
+By the way, it's funny that Google has started including India everywhere.
 @@@
-Видимо, это их целевая аудитория теперь.
+Apparently, that's their target audience now.
 @@@
-Функционал этот для Translator будет работать на 20 языковых парах.
+This functionality for Translator will work with 20 language pairs.
 @@@
-Соответственно, английский что-то и индийский что-то.
+Correspondingly, English-something and Hindi-something.
 @@@
-Поэтому у Индии же много диалектов.
+Because India has many dialects.
 @@@
-Со Speech-to-speech будет 70 парами работать, что странно.
+With speech-to-speech, it will work with 70 pairs, which is strange.
 @@@
-Кажется, будто бы Speech-to-speech и под капотом должен использовать Translate,
+It seems as though speech-to-speech should use Translate under the hood,
 @@@
-кажется, будто бы 70.
+it seems like it should be 70.
 @@@
-Ну, странненько.
+Well, that's a bit strange.
 @@@
-Поэтому на нас ничего не раскатили.
+That's why they haven't rolled out anything for us.
 @@@
-Я, честно, сегодня вот буквально ездил документы завозить там в больницу, польские.
+Honestly, just today I was driving to drop off some documents at the hospital, Polish ones.
 @@@
-Я что-то меня дернуло в Translate зайти, но я обычно, если куда-то еду, там я обычно перед тем, как поговорить с человеком, через ChatGPT прошу, Мне перевести там на русский...
+Something made me go into Translate, but usually, if I'm going somewhere, I usually, before talking to a person, ask ChatGPT to translate for me from Russian...
 @@@
-с русского на польский.
+from Russian to Polish.
 @@@
-Я читаю и потом говорю ртом.
+I read it and then say it with my mouth.
 @@@
-Потому что пока что плоховато слаживаю (складываю)
+Because for now, I'm not very good at forming
 @@@
-предложения.
+sentences.
 @@@
-Тут меня черт дернул сходить в транслейтор.
+Then the devil made me go to the translator.
 @@@
-У меня совсем фиговый уровень польского.
+I have a really crappy level of Polish.
 @@@
-Это даже не А1.
+It's not even A1.
 @@@
-То есть я правила плохо знаю, но читать могу и смысла понимаю.
+That is, I don't know the rules well, but I can read and understand the meaning.
 @@@
-Это такой А1 переходящий в А2, но без правил.
+It's like an A1 transitioning to A2, but without the rules.
 @@@
-И даже я увидел, что ChatGPT мне полную херню сгенерил.
+And even I saw that ChatGPT generated complete bullshit for me.
 @@@
-Точнее, Translator мне полную фигню сгенерил.
+More accurately, Translator generated complete crap for me.
 @@@
-Он мне буквально написал вот половину не того, что надо.
+It literally wrote like half of what I didn't need.
 @@@
-Я попросил написать, мне надо было сказать доктору, примите, пожалуйста, мой договор и передайте его главврачу.
+I asked it to write, I needed to tell the doctor, please accept my contract and give it to the head physician.
 @@@
-Он мне буквально перевел что-то типа,
+It literally translated something like,
 @@@
-поговорите со мной, что-то посплетничайте со мной и расскажите об этих сплетнях главврачу, что-то такое.
+talk to me, gossip with me a bit and tell the head physician about this gossip, something like that.
 @@@
-О, господи.
+Oh, my god.
 @@@
-При том, что на уровне понимания...
+And this is when on the level of understanding...
 @@@
-Ну, поиски слова, они достаточно похожи по корням.
+Well, searching for words, they are quite similar by their roots.
 @@@
-Я просто смотрю, я понимаю, что это фигня какая-то.
+I just look at it, and I understand that it's some kind of nonsense.
 @@@
-А у них это...
+And they have this...
 @@@
-Я не понял, это статический перевод настолько фиговый в Google на сегодняшний день или это они экспериментально модели какие-то фиговые накатили.
+I didn't understand, is the static translation in Google that crappy nowadays, or did they experimentally roll out some crappy models.
 @@@
-Я думаю, там статический перевод херовый.
+I think the static translation there is terrible.
 @@@
-Он всегда же такой был как бы.
+It's always been like that, sort of.
 @@@
-Ну, странно.
+Well, it's strange.
 @@@
-При этом у них есть Gemini которые классно переводит.
+Yet they have Gemini, which translates great.
 @@@
-Зачем он Translator?
+Why do they need Translator?
 @@@
-Уже дали бы всем Gemini бесплатно.
+They should have just given Gemini to everyone for free already.
 @@@
-Пора внедрять, да.
+It's time to implement it, yes.
 @@@
-Это факт.
+That's a fact.
 @@@
-Ладно.
+Alright.
 @@@
-Было еще два анонса от Гугла.
+There were two more announcements from Google.
 @@@
-Это только анонсы, там ничего твердого нет.
+These are just announcements, there's nothing solid there.
 @@@
-Можно встать в вейтлисты к этим анонсам.
+You can get on the waitlists for these announcements.
 @@@
-Два новых инструмента.
+Two new tools.
 @@@
-Первый называется Google CC.
+The first is called Google CC.
 @@@
-И кто пользуется почтой, Carbon Copy.
+And for those who use email, Carbon Copy.
 @@@
-Это, соответственно, саморизатор почты гугловой.
+This, accordingly, is a summarizer for Google mail.
 @@@
-Как он будет работать, фиг знает.
+How it will work, who the hell knows.
 @@@
-Ну, какие-то нейронки под капотом будут ваши письма саммаризировать, и вам об этом в удобном формате.
+Well, some neural networks under the hood will summarize your emails, and give it to you in a convenient format.
 @@@
-в формате сообщать, наверное, прямо в интерфейсе Гугла.
+report it in a format, probably, right in the Google interface.
 @@@
-Можно встать в вейтлист, чтобы вам эту функцию раскатили среди первых.
+You can get on the waitlist to have this feature rolled out to you among the first.
 @@@
-А второй анонсированный ими продукт называется Google Disco.
+And the second product they announced is called Google Disco.
 @@@
-И нежданчик-нежданчик.
+And surprise, surprise.
 @@@
-Это браузер.
+It's a browser.
 @@@
-Это не Chrome, причем, а Google Disco.
+And it's not Chrome, mind you, but Google Disco.
 @@@
-Это отдельный браузер.
+It's a separate browser.
 @@@
-Ну, скорее всего, это Chrome будет, но выглядит он немножко странно.
+Well, most likely it will be Chrome, but it looks a little strange.
 @@@
-Они, типа, говорят, что это агентно-нативный браузер.
+They're, like, saying that it's an agent-native browser.
 @@@
-То есть он будет заточен на...
+That is, it will be focused on...
 @@@
-проактивные действия со стороны пользователя.
+proactive actions from the user.
 @@@
-Там буквально на видосах показано, что у вас есть промпт, окно для ввода промпта.
+There, literally in the videos, it's shown that you have a prompt, a window for entering a prompt.
 @@@
-Вы вводите промпт, там, опять-таки, купить билеты.
+You enter a prompt, like, again, "buy tickets."
 @@@
-И он уходит там на кучу сайтов гуглить билеты, межит цены с этими сайтами.
+And it goes off to a bunch of sites to google tickets, compares prices with these sites.
 @@@
-Потом вы в промпт...
+Then you into the prompt...
 @@@
-Вы пишете, типа, вот такие-то, такие-то мне билеты понравились.
+You write, like, I liked these and these tickets.
 @@@
-Вот там еще деньги остались, хочу спланировать поездку свою, можешь помочь, и все это в одном буквально окне.
+I still have some money left, I want to plan my trip, can you help, and all this literally in one window.
 @@@
-И что прикольно, они там заанонсили новую фишку, называется GenTabs.
+And what's cool, they announced a new feature there called GenTabs.
 @@@
-То есть буквально по вашей истории агентского взаимодействия, вот он, в этом браузере увидит, что вы там купили какие-то билеты в какую-то страну, вы попросили составить путь, он берет вот все вкладки, Которые были использованы в этом агентском Workflow взаимодействия.
+That is, literally based on your history of agentic interaction, it, in this browser, will see that you bought some tickets to some country, you asked it to create a route, it takes all the tabs that were used in this agentic workflow of interaction.
 @@@
-И на основании этих вкладок можно создать новую вкладку, сгенерить ее с нуля.
+And based on these tabs, you can create a new tab, generate it from scratch.
 @@@
-В которой будет приложение специально для вас сделанное.
+In which there will be an application made especially for you.
 @@@
-Да, он по факту будет генерить одноразовое приложение исключительно под конкретный юзкейс.
+Yes, it will in fact generate a one-time application exclusively for a specific use case.
 @@@
-Да, в этом случае он, например, может сгенерить приложение, в котором у вас будет показана карта, и будут показаны точки с вашим путешествием, и сколько стоит перелет с одной точки во вторую, И будет кнопка там купить.
+Yes, in this case, for example, it can generate an application where you will be shown a map, and points of your journey will be shown, and how much a flight from one point to another costs, and there will be a "buy" button.
 @@@
-Похожая штука уже работает в Gemini.
+A similar thing already works in Gemini.
 @@@
-Мы про нее рассказывали.
+We talked about it.
 @@@
-Я, правда, забыл, как она называется.
+Though, I forgot what it's called.
 @@@
-То ли Gemini Previews, то ли что.
+Either Gemini Previews, or something.
 @@@
-Они там тоже тебе под запрос генерят интерфейс целый.
+They also generate a whole interface for you there based on a request.
 @@@
-Да, да, есть такое.
+Yes, yes, there is such a thing.
 @@@
-И вот теперь они это хотят интегрировать прямо в браузер.
+And now they want to integrate this directly into the browser.
 @@@
-Стать в Waitlist можно, но там сложный Waitlist.
+You can get on the waitlist, but it's a complicated waitlist.
 @@@
-Там надо написать, кто вы, чем вы занимаетесь по жизни, почему вы хотите в этот Waitlist.
+There you have to write who you are, what you do for a living, why you want to be on this waitlist.
 @@@
-Я, короче, заколупался писать, пока вставал.
+In short, I got tired of writing while I was signing up.
 @@@
-Вот такая штука.
+So, that's the thing.
 @@@
-С гуглом на этом все, наверное.
+That's probably all with Google.
 @@@
-С гуглом все, но дальше у нас идет тот самый Anthropic, про который мы уже сегодня немножечко говорили.
+That's all with Google, but next up is that very Anthropic we've already talked a little about today.
 @@@
-И, в общем, новость.
+And, so, the news.
 @@@
-Я, честно говоря, удивлен, что мне казалось, что это случилось очень давно.
+I'm honestly surprised, because it seemed to me that this happened a very long time ago.
 @@@
-Но, видимо, недавно.
+But, apparently, it was recent.
 @@@
-Недавно.
+Recently.
 @@@
-Anthropic передал MCP, ну, Modal Context Protocol под управлением Linux Foundation.
+Anthropic handed over MCP, well, Modal Context Protocol, to be managed by the Linux Foundation.
 @@@
-Да.
+Yes.
 @@@
-Это не то, что недавно случилось.
+It's not that it happened recently.
 @@@
-Это должно было случиться, и все ждали, когда это случится на самом-то деле.
+It was supposed to happen, and everyone was waiting for it to happen, in fact.
 @@@
-Просто не было организации, в которую Anthropic мог бы спокойно передать.
+There just wasn't an organization that Anthropic could safely hand it over to.
 @@@
-Linux Foundation, на самом деле, не подходит для инициатив и яйных.
+The Linux Foundation, in fact, is not suitable for AI initiatives.
 @@@
-Это организация, которая, типа, рулит опенсорсными проектами, но там достаточно нейтральное, я бы сказал, прохладное отношение к AI.
+It's an organization that, like, runs open-source projects, but it has a rather neutral, I would say, cool attitude towards AI.
 @@@
-В частности, Linus Torvalds, он в последнее время нормально про ия и отзывается, но все равно, как бы, Linux Foundation, он...
+In particular, Linus Torvalds, he has been speaking normally about AI lately, but still, like, the Linux Foundation, it...
 @@@
-Короче, все сложно с брендингом.
+In short, it's all complicated with branding.
 @@@
-Поэтому создали целый новый фонд.
+So they created a whole new foundation.
 @@@
-Называется он Agentic AI Foundation.
+It's called the Agentic AI Foundation.
 @@@
-Его основателем выступили три компании.
+Its founders were three companies.
 @@@
-Это Anthropic OpenAI и Block.
+That's Anthropic, OpenAI, and Block.
 @@@
-Anthropic OpenAI.
+Anthropic, OpenAI.
 @@@
-На минуточку.
+For a minute.
 @@@
-И этим фондом, несмотря на то, что создатели этих компаний, четвертый учредитель это Linux Foundation, но он же управляющий.
+And this foundation, despite the fact that the creators are these companies, the fourth founder is the Linux Foundation, but it is also the managing one.
 @@@
-То есть они будут управлять этим фондом.
+That is, they will manage this foundation.
 @@@
-Очень красиво все сделали.
+They did it all very nicely.
 @@@
-И в фонд также вошли в качество соучредителей Google, Amazon, AWS, Cloudflare и Bloomberg внезапно.
+And the foundation was also joined as co-founders by Google, Amazon, AWS, Cloudflare, and suddenly, Bloomberg.
 @@@
-Этот фонд будет заниматься развитием опенсорсных инициатив, которые имеют импакт уровня всего мира в AI-технологиях.
+This foundation will be involved in the development of open-source initiatives that have a worldwide impact in AI technologies.
 @@@
-Anthropic туда передали Model Context Protocol.
+Anthropic contributed the Model Context Protocol there.
 @@@
-И это самый большой пока что импакт.
+And that's the biggest impact so far.
 @@@
-OpenAI передали туда спецификацию Agents.md.
+OpenAI contributed the Agents.md specification there.
 @@@
-Это в мире разработки стандарт для описания инструкций, по которым должны работать агенты в приложениях.
+This is a standard in the development world for describing instructions by which agents in applications should operate.
 @@@
-Тоже мы долго ждали, когда Agents.md станет стандартом, потому что у каждого инструмента свои файлы для настроек агентов были.
+We also waited a long time for Agents.md to become a standard, because every tool had its own files for agent settings.
 @@@
-Gemini.md, Claude.md и бла-бла-бла.
+Gemini.md, Claude.md, and blah-blah-blah.
 @@@
-Сейчас стандарт появился, и он вошел в Agentic AI Foundation.
+Now the standard has appeared, and it has become part of the Agentic AI Foundation.
 @@@
-Как туда попала компания Block, не совсем понятно, она у нас не на устах, но вообще это компания Research Laboratory, которая в свое время выкатила одного из первых нормально работающих агентов для написания кода.
+How the company Block got there is not entirely clear, it's not a household name for us, but it's actually a Research Laboratory company that, at one time, rolled out one of the first properly working agents for writing code.
 @@@
-Он называется Goose.
+It's called Goose.
 @@@
-Мы, наверное, даже про него рассказывали.
+We probably even talked about it.
 @@@
-У него так-то немало звезд на GitHub, 20 тысяч, и его до сих пор разрабатывают.
+It actually has quite a few stars on GitHub, 20 thousand, and it's still being developed.
 @@@
-И этот агент стал тоже достоянием Agentic AI Foundation.
+And this agent also became the property of the Agentic AI Foundation.
 @@@
-Можно сказать, что это такой эталонный агент, эталонный Claude Code, который будет поддерживаться Linux Foundation.
+You could say it's a sort of reference agent, a reference Claude Code, which will be supported by the Linux Foundation.
 @@@
-Ну и сейчас сообщество ожидает, что Anthropic туда же передаст Agent Skills
+And now the community expects that Anthropic will also contribute Agent Skills there.
 @@@
-Такая вот новость.
+So that's the news.
 @@@
-Короче.
+In short.
 @@@
-При этом, да, при этом если Agent Skills.
+At the same time, yes, at the same time if Agent Skills.
 @@@
-Почему Agent Skills туда же передадут?
+Why will Agent Skills be contributed there as well?
 @@@
-Потому что с Agent Skills все очень стремительно развивается.
+Because with Agent Skills, everything is developing very rapidly.
