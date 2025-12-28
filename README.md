@@ -40,7 +40,7 @@ For very long recordings, use **LosslessCut** to split the file along Chapter bo
 Generate text from the audio track.
 *   **Tools**: Subtitle Edit or `20250228230803-whisper` (Faster-Whisper).
 *   **Settings**: `--threads 8 --one_word 2`
-*   **Output**: An SRT file with word-by-word subtitles, offering maximum flexibility.
+*   **Output**: An SRT file with word-by-word subtitles (initial **v1**), offering maximum flexibility.
 
 ### 4. Version Control
 *   Create a separate directory in the Git repository.
