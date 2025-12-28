@@ -68,6 +68,8 @@ Generate text from the audio track.
 *   **Format**: Line separator `@@@`.
 *   **Output**: Save with `.en` postfix (e.g., `filename.v2.en.srt`).
 
+### 8. Verification
+*   **Integrity**: Create a hash sum of the audio file (using 7z) to ensure subtitle synchronization.
 *   **Review**: View double subtitles in a suitable player (e.g., Chrome with [asbplayer](https://github.com/killergerbah/asbplayer) plugin).
 
 ### 9. YouTube Studio Upload
