@@ -16,6 +16,8 @@ This repository is dedicated to preparing subtitles as part of working with fore
     *   [6. Sentence Merging](#6-sentence-merging)
     *   [7. Translation](#7-translation)
     *   [8. Verification](#8-verification)
+*   [Kardenwort Ecosystem](#kardenwort-ecosystem)
+*   [License](#license)
 
 ## Directory Overview
 
@@ -71,3 +73,18 @@ Generate text from the audio track.
 [Return to Top](#table-of-contents)
 
 For more details, see [RFC 20251228193409](docs/rfcs/20251228193409-doc-subtitle-process.md).
+
+## Kardenwort Ecosystem
+
+This project is part of the [Kardenwort](https://github.com/kardenwort) environment, designed to create a focused and efficient learning ecosystem.
+
+[Return to Top](#table-of-contents)
+
+## License
+
+This project is licensed under the **MIT License**.
+
+See the [LICENSE](LICENSE) file for details.
+
+[Return to Top](#table-of-contents)
+
