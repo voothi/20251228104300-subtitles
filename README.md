@@ -70,9 +70,9 @@ Generate text from the audio track.
 *   **Integrity**: Create a hash sum of the audio file (using 7z) to ensure subtitle synchronization.
 *   **Review**: View double subtitles in a suitable player (e.g., Chrome with [asbplayer](https://github.com/killergerbah/asbplayer) plugin).
 
-[Return to Top](#table-of-contents)
-
 For more details, see [RFC 20251228193409](docs/rfcs/20251228193409-doc-subtitle-process.md).
+
+[Return to Top](#table-of-contents)
 
 ## Kardenwort Ecosystem
 
