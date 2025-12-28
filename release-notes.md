@@ -15,6 +15,7 @@
 Added Belarusian subtitles for the "drugs-for-ai-325" video.
 
 *   **New Content**: Added `20251227091752-drugs-for-ai-325-ru.v2.be.srt`.
+*   **Technology**: Used `whisper-large-v3-turbo` for initial transcription (v1).
 *   **Documentation**: Created RFC [20251228230424](docs/rfcs/20251228230424-prepare-release-v1.0.12.md) for this release.
 
 [Return to Top](#table-of-contents)
