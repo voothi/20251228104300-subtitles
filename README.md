@@ -51,12 +51,12 @@ Generate text from the audio track.
 *   Open the subtitles in **Subtitle Edit**.
 *   Play the media and edit using `Ctrl+H` and "Merge line".
 *   Commit changes to Git after each session (include ZID).
-*   **Result**: Validated word-by-word subtitles (v1).
+*   **Result**: Validated **word-by-word** subtitles (**v1**).
 
 ### 6. Sentence Merging
 *   In **Subtitle Edit**, use **Auto-translate / Merge sentences...**.
 *   Merge words into sentences based on audio track boundaries.
-*   Save as a separate file (v2). This prepares the file for translation.
+*   **Result**: **Merged phrase/sentence** subtitles (**v2**). This version prepares the file for translation.
 
 ### 7. Translation
 *   Use **Subtitle Edit**'s **Auto-translate / Auto-translate via Copy-Paste...**.
