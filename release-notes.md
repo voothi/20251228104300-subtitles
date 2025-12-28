@@ -2,7 +2,22 @@
 
 ## Table of Contents
 
+*   [v1.0.12](#v1012)
 *   [v1.0.0](#v100)
+
+<a name="v1012"></a>
+## v1.0.12
+
+**Date:** 2025-12-28
+
+### Subtitles Update
+
+Added Belarusian subtitles for the "drugs-for-ai-325" video.
+
+*   **New Content**: Added `20251227091752-drugs-for-ai-325-ru.v2.be.srt`.
+*   **Documentation**: Created RFC [20251228230424](docs/rfcs/20251228230424-prepare-release-v1.0.12.md) for this release.
+
+[Return to Top](#table-of-contents)
 
 <a name="v100"></a>
 ## v1.0.0

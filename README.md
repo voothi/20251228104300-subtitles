@@ -1,8 +1,10 @@
 # Subtitles Repository
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
+[![Version](https://img.shields.io/badge/version-1.0.12-blue.svg)](release-notes.md)
 
 This repository is dedicated to preparing subtitles as part of working with foreign languages and testing Kardenwort tools.
+Check the [Release Notes](release-notes.md) for the latest updates.
 
 ## Table of Contents
 
@@ -97,7 +99,9 @@ The [aistudio.google.com](https://aistudio.google.com) service is free to use, b
 
 [Return to Top](#table-of-contents)
 
-For more details, see [RFC 20251228193409](docs/rfcs/20251228193409-doc-subtitle-process.md).
+For more details, see:
+- [RFC 20251228230424](docs/rfcs/20251228230424-prepare-release-v1.0.12.md) - Release v1.0.12 (Belarusian Subtitles)
+- [RFC 20251228193409](docs/rfcs/20251228193409-doc-subtitle-process.md) - Subtitle Creation Process
 
 ## Kardenwort Ecosystem
 
