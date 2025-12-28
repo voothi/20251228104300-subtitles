@@ -1740,396 +1740,396 @@ Like, mega happy.
 @@@
 I think the guys themselves are freaking out over there too.
 @@@
-Прикинь, прикинь, они такие, блин, мы Graphite купили, да мы им пользовались год назад, подписки там, не знаю, там есть подписки у Graphite, нету.
+Guess what, guess what, they're like, damn, we bought Graphite, yeah we used it a year ago, subscriptions there, I don't know, are there subscriptions for Graphite, or not.
 @@@
-Это просто есть такое.
+It's just a thing that exists.
 @@@
-Так, ну что, что у нас с JetBrains?
+So, what's up with JetBrains?
 @@@
-Расскажи.
+Tell me.
 @@@
-Ой, у JetBrains офигенная новость.
+Oh, JetBrains has awesome news.
 @@@
-Просто офигеннейшая.
+Just totally awesome.
 @@@
-Вот, наверное, лучший подарок для разработчиков перед Новым годом.
+Probably the best gift for developers before the New Year.
 @@@
-Не ожидал, что JetBrains принесет, на самом деле, как-то.
+Didn't expect JetBrains to deliver this, really, somehow.
 @@@
-JetBrains в начале года были супер догоняющих, а в концу года они догнали.
+At the beginning of the year, JetBrains were super behind, but by the end of the year, they've caught up.
 @@@
-Вот помнишь, мы в начале года говорили, я говорил, что очень хочу, чтобы JetBrains к концу года наконец-то стал компанией в больших рыбах.
+You remember, at the beginning of the year we were saying, I was saying, that I really want JetBrains to finally become a big fish company by the end of the year.
 @@@
-Вот-вот, все стал.
+Exactly, it has become one.
 @@@
-Молодцы.
+Good for them.
 @@@
-Короче, что за новость?
+Anyway, what's the news?
 @@@
-Они принесли...
+They've brought...
 @@@
-Нет, это они нам пока что еще даже не платят.
+No, they're not even paying us for this yet.
 @@@
-Да-да-да.
+Yeah, yeah, yeah.
 @@@
-Ребята, напишите нам.
+Guys, write to us.
 @@@
-Они завезли в своей IDE-шке bring your own API key.
+They've added a "bring your own API key" feature to their IDE.
 @@@
-Даже не просто key.
+Not even just a key.
 @@@
-Короче, функцию, благодаря которой ты можешь свои ключики моделям API там использовать в IDE-шке.
+Basically, a function that lets you use your own API keys for models right there in the IDE.
 @@@
-Мимо подписки.
+Bypassing the subscription.
 @@@
-Это значит, что ты берешь свой ключик из OpenAI, вставляешь в JetBrains IDE, и у тебя чат и агентные режимы все.
+This means you take your key from OpenAI, paste it into the JetBrains IDE, and you have the chat and all the agent modes.
 @@@
-У них там много агентов появилось, у них есть свой агент, у них есть Claude Code, и в экспериментальной версии они наконец-то в джуни объединились с AI-системтом, и джуни агент у них там.
+They've got a lot of new agents there, they have their own agent, they have Claude Code, and in the experimental version, they finally teamed up with AI-sistemt in Juni, and the Juni agent is in there.
 @@@
-Так вот все эти агенты начинают работать по твоему ключику.
+So all these agents start working with your key.
 @@@
-Мимо подписки.
+Bypassing the subscription.
 @@@
-То есть ты можешь даже подписку перестать платить им, и у тебя практически весь функционал агент и будет работать тупо по твоему ключику напрямую с API.
+Meaning you can even stop paying for their subscription, and practically all the agent functionality will work just using your key directly with the API.
 @@@
-И ладно, это Витя, но у них там есть еще работа с локальными моделями.
+And okay, that's one thing, Vitya, but they also have support for local models.
 @@@
-Ты можешь развернуть, по-моему, Ollama или LMStudio.
+You can set up, I think, Ollama or LMStudio.
 @@@
-Забыл, чё там было, точно надо глянуть.
+Forgot what it was, need to check for sure.
 @@@
-Но ты можешь локальную модель развернуть, вставить ключик от локальной модели и вообще забить.
+But you can deploy a local model, paste the key from the local model and not worry about a thing.
 @@@
-То есть, включиться от интернета, и у тебя будет работать агентный чат.
+That is, disconnect from the internet, and you'll have a working agent chat.
 @@@
-Это просто вау, никто так не делал.
+This is just wow, nobody has done this.
 @@@
-Никто, блин, так из аидешек не сделал.
+Nobody, damn it, from the IDEs has done this.
 @@@
-У Сursor есть bring your API key, но он залочен на их сервера.
+Cursor has a "bring your API key" feature, but it's locked to their servers.
 @@@
-Во-первых, ты не можешь туда локальную ключ ставить, это только работает с удаленными серверами.
+First, you can't put a local key there, it only works with remote servers.
 @@@
-Во-вторых, ты не можешь локальную ключ ставить, потому что...
+Second, you can't put a local key there, because...
 @@@
-Короче, Сursor такого не позволяет.
+In short, Cursor doesn't allow this.
 @@@
-А JetBrains позволяет.
+But JetBrains does.
 @@@
-Я прям офигел.
+I was just blown away.
 @@@
-Прям...
+Like, really...
 @@@
-Теперь единственное, что в JetBrains не может работать локально, либо через свои ключики, это многострочный Code completion.
+Now the only thing in JetBrains that can't work locally or through your own keys is multi-line code completion.
 @@@
-Но ими, как показывает практика, до сих пор мало кто пользуется на фоне агентной генерации.
+But, as practice shows, very few people use it anyway compared to agent-based generation.
 @@@
-То есть, я прям...
+So, I'm just...
 @@@
-Я не думал, что они это сделают.
+I didn't think they would do this.
 @@@
-И это еще прямое доказательство, что JetBrains не надо...
+And this is also direct proof that JetBrains doesn't need...
 @@@
-Ну, типа, они не про бабки, они про кайф.
+Well, like, they're not about the money, they're about the experience.
 @@@
-Да, ребятам деньги не нужны.
+Yeah, the guys don't need money.
 @@@
-Не, ну нужны, конечно.
+No, well, they do, of course.
 @@@
-А раз они им не нужны настолько, то можно и...
+But since they don't need it that much, then one could...
 @@@
-Можно и нам привезти, да.
+They could bring some to us, yeah.
 @@@
-Просто нам привезти донат.
+Just bring us a donation.
 @@@
-Ну, ты прикинь, JetBrains.
+I mean, just imagine, JetBrains.
 @@@
-JetBrains большая компания.
+JetBrains is a big company.
 @@@
-Если бы они нам сделали, ну, просто один донатик там в несколько сотен тысяч долларов, нам бы хватило с тобой до пенсии.
+If they just gave us, you know, a small donation of a few hundred thousand dollars, it would be enough for us to retire.
 @@@
-Ну, не до пенсии, на годика три нам бы хватило.
+Well, not to retire, it would last us for about three years.
 @@@
-Да.
+Yeah.
 @@@
-Ну, до пенсии, да.
+Well, to retirement, yeah.
 @@@
-Ну, да, с текущими темпами.
+Well, yeah, at the current pace.
 @@@
-Вот такие новости от JetBrains.
+So that's the news from JetBrains.
 @@@
-Ладно.
+Alright.
 @@@
-JetBrains на этом все.
+That's all on JetBrains.
 @@@
-Дальше коротенькая новость от Perplexity.
+Next up, a short piece of news from Perplexity.
 @@@
-Perplexity выпускает свой Comet, но на Android.
+Perplexity is releasing its Comet, but on Android.
 @@@
-Коротенькая, хорошая новость.
+A short, good piece of news.
 @@@
-Хорошая новость.
+Good news.
 @@@
-У нас мало нормальных этих браузеров на телефонах AI First.
+We have few decent AI-first browsers on phones.
 @@@
-И от Mistral есть новость.
+And there's news from Mistral.
 @@@
-Две даже.
+Two pieces, actually.
 @@@
-Даже три.
+Even three.
 @@@
-Короче, они все плюс-минус с программированием связаны.
+Basically, they're all more or less related to programming.
 @@@
-Во-первых, Mistral выпустил следующую версию модели для программирования Devstral 2.
+First, Mistral released the next version of its programming model, Devstral 2.
 @@@
-Там их две штуки.
+There are two of them.
 @@@
-На 100 миллиардов параметров, на 123 и на 24 миллиарда параметров.
+One with 100 billion parameters, one with 123, and one with 24 billion parameters.
 @@@
-Модели so-so.
+The models are so-so.
 @@@
-И неплохие, и нехорошие.
+Not bad, but not great either.
 @@@
-Они open-source, они работают...
+They are open-source, they work...
 @@@
-Короче, есть лучшие модели.
+In short, there are better models out there.
 @@@
-Если знаете, то знаете.
+If you know, you know.
 @@@
-Qwen, например.
+Qwen, for example.
 @@@
-Но и эти неплохие.
+But these are not bad either.
 @@@
-Причем видно, что они конкретно для разработки, потому что на SWE-bench это самый популярный измеритель мощности моделей программерских.
+And you can tell they are specifically for development, because on SWE-bench, which is the most popular benchmark for programming models' power,
 @@@
-Большая версия модели набирает 72%, что вплотную приближается к нижней планке топовых закрытых моделей.
+The large version of the model scores 72%, which is very close to the lower-end of top-tier closed models.
 @@@
-Так что молодцы.
+So, good for them.
 @@@
-Ну, а еще вспоминаем, что Devstral это Европа, Франция.
+And let's not forget that Devstral is Europe, France.
 @@@
-Соответственно, их модели нормально проходят по всем стандартизациям и актам, всему прочему.
+Consequently, their models pass all standardizations, acts, and everything else just fine.
 @@@
-Для бизнеса само то.
+Perfect for business.
 @@@
-Для счастья, всей экосистеме Mistral не хватало своей CLI.
+To be complete, the whole Mistral ecosystem was missing its own CLI.
 @@@
-Сейчас все делают command-language интерфейсы.
+Everyone is making command-language interfaces now.
 @@@
-И секрет-секрет, они выпустили свой CLI-интерфейс.
+And surprise-surprise, they released their own CLI interface.
 @@@
-Называется Mistral Vibe.
+It's called Mistral Vibe.
 @@@
-Хорошее название.
+Good name.
 @@@
-Мне нравится.
+I like it.
 @@@
-Ну, кстати, да.
+Well, actually, yeah.
 @@@
-Наверное, единственное нормальное название из всех этих CLI, потому что все эти названия с Code уже заколупали, честно говоря.
+Probably the only normal name out of all these CLIs, because all those names with "Code" in them have gotten really annoying, to be honest.
 @@@
-Вот.
+So there.
 @@@
-И традиционно у Mistral хорошие модельки, даже целые системы для распознавания текста.
+And traditionally, Mistral has good models, even entire systems for text recognition.
 @@@
-Они хорошо с PDF-ками работают.
+They work well with PDFs.
 @@@
-И у них вышла третья версия их системы.
+And they've released the third version of their system.
 @@@
 OCR 3.
 @@@
-Она работает аж на 74% лучше OCR 2.
+It works a whole 74% better than OCR 2.
 @@@
-Казалось бы, куда уж лучше.
+You'd think, how could it get any better.
 @@@
-Но это закрытый продукт.
+But it's a closed product.
 @@@
-За него надо деньги платить.
+You have to pay for it.
 @@@
-Он не опенсорсный.
+It's not open-source.
 @@@
-Но, тем не менее, если вы интересуетесь системой по распознаванию текстов в документах, рукописного текста, то обратите внимание, OCR 3.
+But nevertheless, if you're interested in a system for recognizing text in documents, handwritten text, then pay attention to OCR 3.
 @@@
-Это прям мощный конкурент всему, что есть на рынке.
+It's a really powerful competitor to everything else on the market.
 @@@
-Вот такая штука с Mistral.
+So that's the deal with Mistral.
 @@@
-Что-то еще у нас по французам.
+Anything else from the French.
 @@@
-А еще у нас, да, по французам.
+Ah yes, we do have more from the French.
 @@@
-В общем, следующая большая рыба.
+Anyway, the next big fish.
 @@@
-Это живая рыба.
+This is a living fish.
 @@@
-Потому что это Ян Лекун.
+Because it's Yann LeCun.
 @@@
-Такое бывает.
+It happens.
 @@@
-Да.
+Yes.
 @@@
-Как вы знаете, у нас большие рыбы не только компаний, но и мастодонты Мира и Яя.
+As you know, our big fish are not only companies, but also the titans of the AI world.
 @@@
-В общем, Ян Лекун будет строить свой стартап в Европе.
+In short, Yann LeCun is going to build his startup in Europe.
 @@@
-Не в Америке, в Европе.
+Not in America, in Europe.
 @@@
-Потому что он говорит, что вообще-то, как бы, Кремниевая долина и вообще США перегреты.
+Because he says that, well, Silicon Valley and the US in general are overheated.
 @@@
-И там все этим Яям уже загипнотизировано.
+And everyone there is already hypnotized by this AI stuff.
 @@@
-Это цитата.
+That's a quote.
 @@@
-Поэтому хочу развить свою AI-кремниевую долину в Европе, а точнее в Париже.
+Therefore, I want to develop my own AI Silicon Valley in Europe, or more precisely, in Paris.
 @@@
-Еще бы.
+Of course.
 @@@
-Чтобы француз да не открыл компанию во Франции.
+A Frenchman not opening a company in France.
 @@@
-Я бы удивился.
+I would be surprised.
 @@@
-Да, да, да.
+Yeah, yeah, yeah.
 @@@
-Именно так.
+Exactly.
 @@@
-В общем, и буду, говорит, развивать европейский AI, буду развивать местных талантов там, привлекать их, потому что их тут прям дофига и много.
+So, he says, I will develop European AI, I will develop local talent there, attract them, because there's a ton of them here.
 @@@
-Вот.
+There you go.
 @@@
-И что, компания будет называться AMI Labs Advanced Machine Intelligence.
+And what, the company will be called AMI Labs Advanced Machine Intelligence.
 @@@
-Это будто бы он в Индии открыл, а не во Франции.
+It's as if he opened it in India, not France.
 @@@
 Advanced Machine Intelligence.
 @@@
-Жесть.
+Jeez.
 @@@
-Короче, SEO.
+Anyway, the CEO.
 @@@
-Извините.
+Sorry.
 @@@
-SEO будет Alex Lebrun, тоже как бы немножечко француз.
+The CEO will be Alex Lebrun, also a bit of a Frenchman.
 @@@
-Работал в компании Nuance, которая, кстати, основали Siri.
+He worked at Nuance, the company that, by the way, founded Siri.
 @@@
-Ну и в целом, вообще, чувак, AI в Фейсбуке руководил, и, ну,
+And in general, the dude managed AI at Facebook, and, well,
 @@@
-крутой, AI-ный чел, в общем-то.
+a cool AI guy, basically.
 @@@
-Ну и заниматься они будут, как водится, world model, как Лекун завещал.
+And they will be working on, as is tradition, the world model, as LeCun ordained.
 @@@
-А что такое Executive Chairman?
+And what is an Executive Chairman?
 @@@
-Это вот им Лекун станет.
+That's what LeCun will be.
 @@@
-И Добкин, Аркадий, по-моему, стал Executive Chairman в EPAM.
+And Dobkin, Arkady, I think, became the Executive Chairman at EPAM.
 @@@
-Чем это отличается от SEO?
+How is that different from a CEO?
 @@@
-Он в Совете директоров будет находиться.
+He'll be on the Board of Directors.
 @@@
-А, это Совет директоров, все, понял.
+Ah, it's the Board of Directors, okay, I get it.
 @@@
-Chairman, окей, вот я тупой.
+Chairman, okay, I'm an idiot.
 @@@
-Прикол в том, что они же инвестиции ищут, и их уже оценили в 3 миллиарда долларов.
+The funny thing is that they are looking for investments, and they've already been valued at 3 billion dollars.
 @@@
-Они ищут 500 миллионов.
+They are looking for 500 million.
 @@@
-То есть им уже кто-то, скорее всего, готов дать 500 миллионов, потому что просто так эти оценки не рождаются.
+This means someone is likely already prepared to give them 500 million, because these valuations don't just appear out of nowhere.
 @@@
-Я ради интереса просто пошел посмотреть, сколько стоит сегодня Mistral, потому что у меня первая мысль была, сейчас, короче, Лекун насобирает денег,
+Just for fun, I went to check how much Mistral costs today, because my first thought was, okay, LeCun will raise the money,
 @@@
-а потом просто купит Mistral и скажет, что теперь это AMI Labs.
+and then just buy Mistral and say that now it's AMI Labs.
 @@@
-Я уже б не удивился.
+I wouldn't even be surprised anymore.
 @@@
-Или Hugging Face какой-нибудь.
+Or some Hugging Face.
 @@@
-Hugging Face, наверное, подороже.
+Hugging Face is probably more expensive.
 @@@
-Помнишь же, что Hugging Face тоже французский, мы с тобой удивлялись в прошлом году?
+You remember that Hugging Face is also French, we were surprised about that last year, right?
 @@@
-Ну, вообще, я на месте Mistral, конечно, сильно бы сейчас напрягся.
+Well, in general, if I were Mistral, I'd be pretty worried right now.
 @@@
-У них в Европе конкуренция появляется у провайдеров моделей.
+They're getting competition in Europe from model providers.
 @@@
-Прикол.
+Funny.
 @@@
-Нам только лучше от этого.
+It's only better for us.
 @@@
-Да.
+Yeah.
 @@@
-Еще плюс один потенциальный рекламодатель европейский.
+One more potential European advertiser.
 @@@
-Я честно думал, что LeCuna перехайрит Китай.
+I honestly thought China would poach LeCun.
 @@@
-Вот прям честно думал, что он в Китай уедет.
+Like, I honestly thought he would move to China.
 @@@
-И я прям даже рад, что он остается с нами.
+And I'm actually glad he's staying with us.
 @@@
-Ладненько.
+Alrighty.
 @@@
-А у нас китайские карасики.
+And now for our Chinese carps.
 @@@
-Новостей в этот раз не очень много от китайцев было, но, тем не менее, были.
+There wasn't a lot of news from the Chinese this time, but nevertheless, there was some.
 @@@
-Компания z.ai (Зай)...
+The company z.ai (Zai)...
 @@@
-Бал.
+Bal.
 @@@
-Хочу, чтобы не было.
+I wish it wasn't.
 @@@
-Холдинг.
+Holding.
 @@@
-Зай.
+Zai.
 @@@
-Да.
+Yeah.
 @@@
-Или z.ai.
+Or z.ai.
 @@@
-В общем, заопенсорсили исходный код своей модели GLM 4.6V.
+Anyway, they open-sourced the code for their model GLM 4.6V.
 @@@
-И это мультимодалочки.
+And it's a multimodal model.
 @@@
-В общем, в релизе целых две версии.
+In total, there are two versions in the release.
 @@@
-Флеш и обычная.
+Flash and regular.
 @@@
-В смысле,
+You mean,
 @@@
-обычная и флеш, ты хотел сказать?
+regular and flash, you wanted to say?
 @@@
-Да ничего не сказать.
+Yeah, whatever.
 @@@
-GLM хорошая модель.
+GLM is a good model.
 @@@
-GLM 4.6 была хорошей моделью и остается.
+GLM 4.6 was a good model and still is.
 @@@
-Она достаточно свежая.
+It's quite recent.
 @@@
-Мы сколько, месяц назад, наверное, по ней рассказывали, а тут мультимодалку подвезли.
+We talked about it maybe a month ago, and now they've delivered a multimodal version.
 @@@
-Ну, окей.
+Well, okay.
 @@@
-И еще зарелизили GLM Text-to-Speech.
+And they also released GLM Text-to-Speech.
 @@@
-Тоже открытая, кстати, система, ну, соответственно, для синтеза речи.
+Also an open system, by the way, well, for speech synthesis, accordingly.
 @@@
-И видеомодель они выпустили в свою Kaleido.
+And they released a video model into their Kaleido.
 @@@
-Тут, наверное, даже спектр этих новостей говорит о том, что z.ai, они метят в конкуренты Qwen по количеству выпущенных моделей.
+Here, perhaps, the spectrum of this news suggests that z.ai is aiming to compete with Qwen in the number of models released.
 @@@
-И вообще, заметь, сколько в Китае начинают появляться лабораторий, которые занимаются не просто там специализированно какой-то одним типом моделей, а как OpenAI, как Anthropic, которые делают прям спектр всего.
+And in general, notice how many labs are starting to appear in China that are not just specializing in one type of model, but are like OpenAI, like Anthropic, doing a whole spectrum of things.
 @@@
-И видео, и аудио, и текстовые модели, и облачные инфраструктуры.
+Video, audio, text models, and cloud infrastructures.
 @@@
-У нас есть Alibaba Qwen, у нас есть z.ai, у нас там есть всякие Kimi Moonshot, которые пока что только по аудио и видео, но у Moonshot, например, уже LLM появлялись, мы про них рассказывали.
+We have Alibaba Qwen, we have z.ai, we have various Kimi Moonshots, which so far are only audio and video, but Moonshot, for example, already had LLMs appear, we talked about them.
 @@@
-Короче,
+Anyway,
 @@@
-да.
+yeah.
 @@@
-Кстати, про Qwen.
+By the way, about Qwen.
 @@@
-Ни недели без Qwen у нас не проходит в этом году.
+Not a week goes by without Qwen this year.
