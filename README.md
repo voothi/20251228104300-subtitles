@@ -41,7 +41,7 @@ For very long recordings, use [LosslessCut](https://github.com/mifi/lossless-cut
 
 ### 3. Recognition
 Generate text from the audio track.
-- **Tools**: [Subtitle Edit](https://github.com/SubtitleEdit) or `20250228230803-whisper` (Faster-Whisper).
+- **Tools**: [Subtitle Edit](https://github.com/SubtitleEdit) or [`20250228230803-whisper`](https://github.com/voothi/20250228230803-whisper) (Faster-Whisper).
 - **Settings**: `--threads 8 --one_word 2`
 - **Output**: An SRT file with word-by-word subtitles (initial **v1**), offering maximum flexibility.
 
