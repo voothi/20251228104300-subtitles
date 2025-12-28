@@ -1408,334 +1408,334 @@ Why will Agent Skills be contributed there as well?
 @@@
 Because with Agent Skills, everything is developing very rapidly.
 @@@
-Настолько классная технология, это оказалось, ну, типа, загрузка папок с описанием того, как агенты должны работать, что эти Agent Skills уже к себе притащили Microsoft.
+This technology turned out to be so cool, you know, like, loading folders with descriptions of how agents should work, that Microsoft has already pulled these Agent Skills over to their side.
 @@@
-Они завезли Agent Skills в Visual Studio Code.
+They brought Agent Skills to Visual Studio Code.
 @@@
-Они завезли это в Copilot GitHub.
+They brought it to Copilot GitHub.
 @@@
-Они завезли это в GitHub Copilot CLI.
+They brought it to GitHub Copilot CLI.
 @@@
-И Agent Skills к себе заадоптили Codex, то есть OpenAI.
+And Codex, meaning OpenAI, has also adopted Agent Skills.
 @@@
-Там тоже теперь есть агенты, и все это через Agent Skills работает.
+They also have agents there now, and it all works through Agent Skills.
 @@@
-Поэтому Agent Skills, я думаю, скоро добавят в AI Foundation.
+Therefore, I think Agent Skills will soon be added to the AI Foundation.
 @@@
-Наверное...
+Probably...
 @@@
-Наверное, это все от Anthropic.
+Probably, this is all from Anthropic.
 @@@
-Буквально одна новость, но она прям большая.
+Literally one piece of news, but it's a really big one.
 @@@
-Она две.
+It's two.
 @@@
-Да, и очень важная.
+Yes, and a very important one.
 @@@
-Вот, а у нас дальше xAI.
+So, next up we have xAI.
 @@@
-Короче, из забавного.
+Anyway, on a funny note.
 @@@
-У xAI был хакатон.
+xAI had a hackathon.
 @@@
-Ну, хакатон, понятное дело, по использованию их солюшенов AI-ных.
+Well, a hackathon, obviously, for using their AI solutions.
 @@@
-И выиграл проект, который называется Halftime.
+And the winning project is called Halftime.
 @@@
-Короче, что это такое?
+So, what is it?
 @@@
-Это от уловина AI-powered по генерации персонализированной рекламы в видеоконтенте.
+It's an AI-powered solution for generating personalized ads in video content.
 @@@
-То есть, как это работает?
+So, how does it work?
 @@@
-Вы смотрите Breaking Bad.
+You're watching Breaking Bad.
 @@@
-И тут внезапно Уолтер Уайт, он же Хайзенберг, спойлер, если кто не смотрел, берет...
+And then suddenly Walter White, aka Heisenberg, spoiler alert for those who haven't watched, takes...
 @@@
-Ты сначала говоришь спойлер, а потом говоришь, что это был спойлер.
+You first say the spoiler, and then you say it was a spoiler.
 @@@
-Да, точно.
+Yeah, right.
 @@@
-Надо наоборот.
+Should be the other way around.
 @@@
-Берет чупа-чупс, начинает его яростно сосать и говорить вам в камеру, что вкуснее чупа-чупса я в жизни не пробовал.
+He takes a Chupa Chups, starts sucking on it furiously and tells you to the camera that he's never tasted a better Chupa Chups in his life.
 @@@
-И вот такая вот реклама.
+And that's the kind of ad it is.
 @@@
-Потом дальше выплевывает чупа-чупс и дальше варит мет.
+Then he spits out the Chupa Chups and continues cooking meth.
 @@@
-Вот такой вот победитель хакатона.
+So that's the winner of the hackathon.
 @@@
-Да.
+Yes.
 @@@
-Ну, блин, ну что сказать?
+Well, damn, what can I say?
 @@@
-Звучит не страшненько, а не странненько, как это...
+It doesn't sound scary, or weird, what is it...
 @@@
-Паскудненько, как контекстная реклама в ChatGPT, так и вот эта штука звучит.
+It sounds scummy, just like contextual advertising in ChatGPT, that's how this thing sounds.
 @@@
-Но в целом это должно было появиться.
+But overall, this was bound to happen.
 @@@
-Скоро ждет реклама в контенте.
+Ads in content are coming soon.
 @@@
-В контексте и в контенте.
+In context and in content.
 @@@
-Слушай, а с другой стороны, насколько это...
+Listen, but on the other hand, to what extent is this...
 @@@
-почему это вообще всполошила общественность?
+why did this stir up the public at all?
 @@@
-Ну, продакт-плейсмент был всегда.
+Well, product placement has always been around.
 @@@
-Просто он был статический.
+It was just static.
 @@@
-Ну, теперь будут тебе в Америке показывать Кока-Колу, Беларуси Белоколу.
+Well, now they'll show you Coca-Cola in America, and Belocola in Belarus.
 @@@
-Ну и что?
+So what?
 @@@
-Люди вообще на самом деле не задумываются, что если вы видите в фильме машину BMW, это не потому, что...
+People don't really think about the fact that if you see a BMW car in a movie, it's not because...
 @@@
-ну, то есть есть договор с маркой BMW в этот момент.
+well, I mean, there's an agreement with the BMW brand at that moment.
 @@@
-Ну, да.
+Well, yeah.
 @@@
-И ее выбрали там, туда поставить.
+And it was chosen to be put there.
 @@@
-Ну, просто, знаешь, бывает же продакт-плейсмент вообще такое не к месту, да, когда тебе прям светят брендом в глаза крупным...
+Well, it's just, you know, sometimes product placement is totally out of place, right, when they're shining the brand right in your eyes with a close-up...
 @@@
-Ну, бывает, да.
+Well, yeah, it happens.
 @@@
-Это в русских фильмах любят так сделать.
+They love to do that in Russian movies.
 @@@
-Я помню вот, когда еще видел эти фильмы.
+I remember back when I still watched those movies.
 @@@
-Ну, короче.
+Anyway.
 @@@
-Именно так бывает.
+That's exactly how it can be.
 @@@
-Но бывает, что он очень даже к месту.
+But sometimes it's very much in place.
 @@@
-Ну тот же, например, Джеймс Бонд ездит на Астон Мартине, это прям проплаченная реклама, и никого это не...
+Like, for example, James Bond driving an Aston Martin, that's straight-up paid advertising, and nobody is...
 @@@
-Ну видишь, раньше, на заре киноэпохи, когда нам было там по всратых 5-10 лет, продукт-плейсмент уже тогда явно существовал, существовал всегда.
+You see, back in the day, at the dawn of the cinema era, when we were like a shitty 5-10 years old, product placement already clearly existed, it has always existed.
 @@@
-Но как-то тогда про него никто не говорил.
+But somehow, nobody talked about it back then.
 @@@
-Про него начали говорить, когда появились случаи вот этого вот прям навязчивого продукт-плейсмента, когда тебе прям в лицо им тычут, и все начали так...
+People started talking about it when cases of this really intrusive product placement appeared, when they're shoving it right in your face, and everyone started thinking...
 @@@
-А что это, компании так зарабатывают?
+So what, is this how companies make money?
 @@@
-И это стало пошлым.
+And it became tacky.
 @@@
-Много кто стал делать пошлый Product Placement.
+A lot of people started doing tacky Product Placement.
 @@@
-Поэтому новости здесь как таковой нету, хотя с точки зрения так немножко психологической можно...
+So there's no real news here, although from a slightly psychological point of view, you could...
 @@@
-Не скажи мне, это натягивание со мной глобус или нет, но это же открывает...
+Tell me if I'm stretching the truth here or not, but this opens up...
 @@@
-Этот AI Product Placement открывает путь к газлайтингу.
+This AI Product Placement opens the door to gaslighting.
 @@@
-То есть ты посмотрел фильм, у тебя там была одна реклама, твой друг посмотрел в другой стороне, у него была другая реклама.
+Meaning, you watched a movie, you saw one ad there, your friend watched it in another country, and he saw a different ad.
 @@@
-И он тебе будет говорить, что у меня там была одна реклама, а ты будешь говорить, нет, вторая.
+And he'll tell you that he saw one ad, and you'll say, no, the other one.
 @@@
-И вы не знаете, что есть эта технология.
+And you don't know that this technology exists.
 @@@
-И в принципе какие-нибудь чуваки, которые, знаешь, доминирование свое через такие споры могут показываться, они могут специально газлайтись.
+And in principle, some guys who, you know, can show their dominance through such arguments, they can do it on purpose, gaslighting.
 @@@
-Но это единственный минус, который я нашел в этой технологии, который очевиден по сравнению с тем, что сейчас есть.
+But this is the only downside I found in this technology that is obvious compared to what we have now.
 @@@
-Ну, можно будет сказать, что да, ты дурачок, было по другому.
+Well, you could say, yeah, you're a fool, it was different.
 @@@
-Я тебе скажу, давай я тебе сделаю prediction, как это будет работать вообще в будущем.
+I'll tell you, let me make a prediction for you on how this will work in the future.
 @@@
-Ты когда-нибудь настраивал гугловую рекламу?
+Have you ever set up Google ads?
 @@@
-Я не помню.
+I don't remember.
 @@@
-Рекламу на Facebook?
+Facebook ads?
 @@@
-Да, да, да.
+Yes, yes, yes.
 @@@
-Таргетирую, да, было дело.
+Targeting, yeah, I've done that.
 @@@
-Вот это будет работать как таргет.
+This is going to work just like targeting.
 @@@
-Когда условный Netflix, ты на него заходишь, создаешь аккаунт, пишешь, что у тебя, например, там кофе, да, польский кофе, и ты пишешь таргет аудитория польша, продукт кофе, вот его там картинки со всех сторон, пожалуйста.
+When on a hypothetical Netflix, you log in, create an account, you write that you have, for example, coffee, right, Polish coffee, and you write target audience Poland, product coffee, here are its pictures from all sides, please.
 @@@
-и Netflix будет это вставлять вот в автоматическом режиме.
+and Netflix will insert it in automatic mode.
 @@@
-Это ты копнул, конечно, в сторону сумеречную.
+You've certainly delved into the twilight zone here.
 @@@
-Вот ты представь, делается фильм Marvel.
+Just imagine, a Marvel movie is being made.
 @@@
-Миллионный, миллиардный фильм.
+A multi-million, multi-billion dollar movie.
 @@@
-И приходит Марвел к компании BMW и говорят, мы делаем фильм, он принесет там 300 миллиардов,
+And Marvel comes to BMW and says, we're making a movie, it will bring in like 300 billion,
 @@@
-Похер на миллиарды.
+To hell with the billions.
 @@@
-10 миллиардов просмотров он принесет.
+It will get 10 billion views.
 @@@
-И мы интегрируем ваше BMW в 20 минут фильма.
+And we will integrate your BMW into 20 minutes of the film.
 @@@
-И это продается нормально.
+And that sells well.
 @@@
-Это понятные метрики.
+These are clear metrics.
 @@@
-BMW идет, оценивает и дает бабки.
+BMW goes, evaluates it, and gives them the money.
 @@@
-А как в таком случае будет работать Product Placement?
+So how will Product Placement work in that case?
 @@@
-То есть, получается, компании не будут платить наперед.
+So, it turns out companies won't be paying upfront.
 @@@
-Ты будешь делать фильм на какие-то бабки из накоплений, там делать места для Product Placement и постфактум.
+You'll make a film with some money from savings, make spots for Product Placement, and post-factum.
 @@@
-И получать деньги.
+And get the money.
 @@@
-Так это вся сфера должна измениться, получается.
+So the whole industry would have to change, it seems.
 @@@
-Ну, Netflix легко перестроится, если серьезно.
+Well, Netflix will adapt easily, seriously.
 @@@
-Я считываю, что Netflix сейчас это половина медиа-контента планеты после покупки этого самого Warner Brothers.
+I reckon that Netflix is now half of the planet's media content after buying Warner Brothers.
 @@@
-Учитывая, что это в xAI и Хакатоне было, я не удивлюсь, если Маск в следующем году конкурента Netflix выкатит, либо Netflix купит.
+Considering this was at xAI and their Hackathon, I wouldn't be surprised if Musk rolls out a Netflix competitor next year, or buys Netflix.
 @@@
-Что-то такое.
+Something like that.
 @@@
-Ну, да, да.
+Well, yeah, yeah.
 @@@
-Ладно.
+Alright.
 @@@
-И еще небольшая новость от xAI, ну, может, кому-то полезная будет.
+And another small piece of news from xAI, well, maybe it will be useful to someone.
 @@@
-Внезапно Grok запилил свой Speech-to-speech, свою Speech-to-speech-систему, и внезапно эта система прям побила все бенчи работы на русском языке.
+Suddenly, Grok rolled out its own Speech-to-speech, its own Speech-to-speech system, and suddenly this system beat all the benchmarks for working in Russian.
 @@@
-Вот.
+There.
 @@@
-Там, конечно, да, да.
+There, of course, yes, yes.
 @@@
-Есть системы, которые работают на уровне, но вот что популярное, чего-то такого не было.
+There are systems that work on that level, but there wasn't anything popular like that.
 @@@
-Поэтому Speech-to-speech от Grok, you're welcome, можно его пробовать.
+So, Speech-to-speech from Grok, you're welcome, you can try it.
 @@@
-Даже говорят они, что Speech-to-text, и Text-to-speech, скоро выкатят, то есть кусочками.
+They even say that Speech-to-text and Text-to-speech will be rolled out soon, I mean, in pieces.
 @@@
-Хотя это разные пейплайны в целом.
+Although these are different pipelines in general.
 @@@
-Это все с xAI.
+That's all from xAI.
 @@@
-Дальше у нас новости немножко опять по программированию.
+Next up we have some news again about programming.
 @@@
-Там были обновления у Сursor.
+There were updates for Cursor.
 @@@
-Угу.
+Mhm.
 @@@
-Хочешь про них рассказать?
+Do you want to talk about them?
 @@@
-Ну, давай быстренько пройдемся.
+Well, let's go over them quickly.
 @@@
-Давай, не улыбляйся особо.
+Go ahead, don't smile too much.
 @@@
-Я не вижу, где подробно останавливаться.
+I don't see where we need to go into detail.
 @@@
-Да, в общем, в версии 2.2 появился новый режим дебаг, агентный режим.
+Yeah, so, in version 2.2, a new debug mode appeared, an agent mode.
 @@@
-В общем, и в этом режиме может несколько моделей, типа, отвечать, короче, и, ну, типа, выбирается наилучший ответ.
+Basically, in this mode, several models can, like, respond, you know, and, well, like, the best answer is chosen.
 @@@
-Не-не, это разные.
+No-no, those are different things.
 @@@
-Давай я расскажу.
+Let me tell you.
 @@@
-Видно, ты давно в Сursor не работаешь.
+It's clear you haven't worked in Cursor for a while.
 @@@
-Дебаг это у них...
+Debug for them is...
 @@@
-Дебаг это у них...
+Debug for them is...
 @@@
-Да вот, тем более.
+Yeah, exactly.
 @@@
-Сейчас тебе расскажу, ты, может, еще лучше будешь им пользоваться.
+I'll tell you now, maybe you'll use it even better.
 @@@
-Дебаг это режим исправления именно багов.
+Debug is a mode specifically for fixing bugs.
 @@@
-Это отдельный агентный режим, в котором, типа, агенты анализируют твой stack trace, runtime.
+It's a separate agent mode where, like, agents analyze your stack trace, runtime.
 @@@
-И на основании кучи-кучи-кучи данных, сильно больших данных, которые получаются в момент воспроизведения бага, они тебе рекомендуют точечный фикс, несколько строчек.
+And based on a ton, a ton, a ton of data, very large amounts of data, that are obtained when the bug is reproduced, they recommend a pinpoint fix for you, a few lines.
 @@@
-Короче, просто новый агентный режим, по-другому настроенный.
+In short, it's just a new agent mode, configured differently.
 @@@
-А то, про что ты говорил, оценка результата, это новая отдельная фича, Multi-agent judging называется.
+And what you were talking about, the result evaluation, that's a new separate feature, it's called Multi-agent judging.
 @@@
-Это редкий use case, в Сursor же можно несколько моделей выбрать на исполнение задачи, которые параллельно делают одну и ту же задачу.
+It's a rare use case, in Cursor you can select several models to perform a task, which work on the same task in parallel.
 @@@
-Вот.
+Right.
 @@@
-Этим функционалом пользуются, наверное, в основном исследователи, либо те, кто пытаются понять, какая модель лучше, либо хуже к задаче подходит, потому что ты по факту в четыре раза больше платишь, это дорого.
+This functionality is probably used mainly by researchers, or those who are trying to understand which model is better or worse for a task, because you're actually paying four times as much, it's expensive.
 @@@
-И теперь, если подождать полминутки после того, как все модели выбранные завершат работу, у тебя на ответе, который, по мнению Сursor, лучше, появится лайк.
+And now, if you wait half a minute after all the selected models finish their work, a 'like' will appear on the answer that Cursor thinks is the best.
 @@@
-И вот этот лайк ставит как раз-таки вот эта Judging system, там над модель, которая оценивает эти ответы.
+And this 'like' is given by this Judging system, there's a meta-model there that evaluates these answers.
 @@@
-Ну, работает странненько.
+Well, it works a bit weirdly.
 @@@
-Я думала, это типа одна фича.
+I thought it was, like, one feature.
 @@@
-Не-не, это разное, просто в одно обновление прилетели.
+No-no, they're different, they just arrived in the same update.
 @@@
-Что там еще было?
+What else was there?
 @@@
-Еще визуальный редактор добавили прямо в браузере.
+They also added a visual editor right in the browser.
 @@@
-Те самые WISIWIG из 2006 года возвращаются в новый...
+The very same WYSIWYG from 2006 is making a comeback in the new...
 @@@
-вайб-кодеров.
+vibe of coders.
 @@@
-вайб-кодеров манят.
+luring in the vibe-coders.
 @@@
-Ну, пладят , да.
+Well, they're breeding them, yes.
 @@@
-Вот, а еще Сursor купит платформу код-ревью под названием Graphite.
+So, and also Cursor is buying a code-review platform called Graphite.
 @@@
-Вот я с этой новостью вообще вылетел что-то немножко.
+I totally spaced on this news for some reason.
 @@@
-Знаешь, что?
+You know what?
 @@@
-Потому что...
+Because...
 @@@
-Что?
+What?
 @@@
-Сursor покупает компании?
+Cursor is buying companies?
 @@@
-Сursor!
+Cursor!
 @@@
-Ну, да.
+Well, yeah.
 @@@
-Сursor!
+Cursor!
 @@@
-Еще в прошлом году это было 4, извините, ну, прыщавеньких задротика-программиста.
+Just last year it was 4, excuse me, well, pimply nerd-programmers.
 @@@
-В хорошем смысле слова.
+In a good sense of the word.
 @@@
-Я точно таким же был.
+I was exactly the same.
 @@@
-Вот, да.
+Right, yeah.
 @@@
-Которые сидели у Лекса Фридмана на интервью и охеревали с того, что их позвал Лекс Фридмана на интервью, потому что они буквально 4 месяца назад или там полгода назад просто форкнули VSCode и, будучи умными пацанами, просто дописали туда функционала.
+Who were sitting in an interview with Lex Fridman and were freaking out that Lex Fridman had invited them for an interview, because literally 4 months ago or maybe half a year ago they just forked VSCode and, being smart guys, just added functionality to it.
 @@@
-И много до сих пор, кто в Сursor не верит, говоря, что это просто надстройка над моделями, у них нет ничего своего.
+And many still don't believe in Cursor, saying that it's just a wrapper over models, that they have nothing of their own.
 @@@
-Ну, блин, Сursor покупает компанию за 300 лярда, за миллионов.
+Well, damn, Cursor is buying a company for 300 billion, for millions.
 @@@
-Типа, пока вы бугуртите, Сursor просто берет и скупает конкурентов, потому что Graphite, по факту, конкурент их инструментарию по дебагу.
+Like, while you're all raging, Cursor just goes and buys out competitors, because Graphite is, in fact, a competitor to their debugging tools.
 @@@
-Это же обычная тактика, купить конкурента, чтобы усилиться, во-первых, а во-вторых, чтобы конкуренцию немножко убрать.
+This is a common tactic, to buy a competitor, first, to strengthen your position, and second, to eliminate some competition.
 @@@
-Офигеть.
+Holy shit.
 @@@
-Я в афиге просто.
+I'm just floored.
 @@@
-Да, я лично очень рад за чуваков.
+Yeah, I'm personally very happy for the guys.
 @@@
-Прям мега рад.
+Like, mega happy.
 @@@
-Мне кажется, чуваки там тоже офигевают сами.
+I think the guys themselves are freaking out over there too.
