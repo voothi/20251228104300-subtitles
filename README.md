@@ -16,9 +16,8 @@ This repository is dedicated to preparing subtitles as part of working with fore
     *   [6. Sentence Merging](#6-sentence-merging)
     *   [7. Translation](#7-translation)
     *   [8. Verification](#8-verification)
+    *   [9. YouTube Studio Upload](#9-youtube-studio-upload)
 *   [Notes](#notes)
-*   [Kardenwort Ecosystem](#kardenwort-ecosystem)
-*   [License](#license)
 *   [Kardenwort Ecosystem](#kardenwort-ecosystem)
 *   [License](#license)
 
@@ -69,9 +68,16 @@ Generate text from the audio track.
 *   **Format**: Line separator `@@@`.
 *   **Output**: Save with `.en` postfix (e.g., `filename.v2.en.srt`).
 
-### 8. Verification
-*   **Integrity**: Create a hash sum of the audio file (using 7z) to ensure subtitle synchronization.
 *   **Review**: View double subtitles in a suitable player (e.g., Chrome with [asbplayer](https://github.com/killergerbah/asbplayer) plugin).
+
+### 9. YouTube Studio Upload
+Finalize the process by making the subtitles available on YouTube.
+*   **Access**: Go to [YouTube Studio](https://studio.youtube.com).
+*   **Subtitles Section**: Select the video and navigate to the "Subtitles" tab.
+*   **Add Language**: Add the target language (e.g., English or Russian).
+*   **Upload File**: Choose "Upload file" and select the **v2** (or translated `.en`) SRT file.
+*   **Sync**: Choose "With timing" to ensure the internal SRT timestamps are used.
+*   **Publish**: Review and publish to make them live.
 
 [Return to Top](#table-of-contents)
 

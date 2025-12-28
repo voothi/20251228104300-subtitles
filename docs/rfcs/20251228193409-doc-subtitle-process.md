@@ -17,6 +17,7 @@ The process currently consists of the following stages:
 8.  **Verification**:
     *   Create a hash sum from the audio file using 7z to ensure subtitles exactly match the recording.
     *   View double subtitles in a player like Chrome using the [asbplayer](https://github.com/killergerbah/asbplayer) plugin (can be used as a PWA or locally).
+9.  **YouTube Studio Upload**: Upload the finalized subtitles to [YouTube Studio](https://studio.youtube.com). Select the video, go to "Subtitles", add the language, and upload the SRT file "with timing". Optimize and publish.
 
 ## Notes
 The [aistudio.google.com](https://aistudio.google.com) service is free, but there are limits, and you agree to the use of all data entered into the chat by Google.
