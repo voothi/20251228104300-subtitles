@@ -1,0 +1,32 @@
+﻿1
+00:00:00,000 --> 00:00:02,320
+[SPEAKER_00]: Guten Tag, was kann ich für Sie tun?
+
+2
+00:00:02,600 --> 00:00:05,840
+[SPEAKER_01]: Guten Tag, mein Name ist Greiner von der Firma EE Nord AG.
+
+3
+00:00:06,260 --> 00:00:08,520
+[SPEAKER_01]: Ich habe einen Termin bei Herrn Hartmann.
+
+4
+00:00:09,240 --> 00:00:09,980
+[SPEAKER_00]: Ja, richtig.
+
+5
+00:00:10,680 --> 00:00:13,080
+[SPEAKER_00]: Schön, Sie bei uns begrüßen zu dürfen, Herr Greiner.
+
+6
+00:00:13,460 --> 00:00:14,900
+[SPEAKER_00]: Ich bin Julia Santos.
+
+7
+00:00:15,520 --> 00:00:16,760
+[SPEAKER_00]: Wie war die Anreise?
+
+8
+00:00:17,060 --> 00:00:18,500
+[SPEAKER_00]: Ich hoffe, Sie hatten einen guten...
+

@@ -1,0 +1,32 @@
+1
+00:00:00,000 --> 00:00:02,320
+Guten Tag, was kann ich für Sie tun?
+
+2
+00:00:02,580 --> 00:00:05,840
+Guten Tag, mein Name ist Greiner von der Firma EE Nord AG.
+
+3
+00:00:06,260 --> 00:00:08,520
+Ich habe einen Termin bei Herrn Hartmann.
+
+4
+00:00:09,220 --> 00:00:09,980
+Ja, richtig.
+
+5
+00:00:10,700 --> 00:00:13,080
+Schön, Sie bei uns begrüßen zu dürfen, Herr Greiner.
+
+6
+00:00:13,480 --> 00:00:14,920
+Ich bin Julia Santos.
+
+7
+00:00:15,620 --> 00:00:16,780
+Wie war die Anreise?
+
+8
+00:00:17,120 --> 00:00:18,500
+Ich hoffe, Sie hatten einen guten Tag.
+

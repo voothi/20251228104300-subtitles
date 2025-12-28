@@ -1,0 +1,10 @@
+{
+  version: 1,
+  mediaFileName: '002_Im_Berufssprachkurs_B2_KB_L1_C01a_b.mp3',
+  cutSegments: [
+    {
+      end: 20.264110059375,
+      name: '',
+    },
+  ],
+}

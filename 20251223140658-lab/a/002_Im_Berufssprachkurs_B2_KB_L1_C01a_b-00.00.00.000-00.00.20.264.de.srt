@@ -1,0 +1,28 @@
+1
+00:00:00,000 --> 00:00:02,140
+Ich bin Betriebswirtin von Beruf.
+
+2
+00:00:02,440 --> 00:00:03,960
+Da muss man gut rechnen können.
+
+3
+00:00:04,240 --> 00:00:06,120
+Man braucht ein Gefühl für Zahlen.
+
+4
+00:00:07,000 --> 00:00:11,320
+Mathe hat mir schon immer Spaß gemacht und ich bin ziemlich gut im Kopfrechnen.
+
+5
+00:00:11,880 --> 00:00:15,200
+Meine Ausbildung habe ich an einer Berufsakademie gemacht.
+
+6
+00:00:15,440 --> 00:00:18,220
+Ich habe also ein duales Studium absolviert.
+
+7
+00:00:18,500 --> 00:00:20,100
+Das dauert drei Jahre.
+
