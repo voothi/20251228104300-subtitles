@@ -764,326 +764,326 @@ Codex CLI is their development agent.
 @@@
 And it got an integration with the Linear tracking system, the ability to create custom slash commands, and they brought in GPT 5.2 Codex, as mentioned above.
 @@@
-Что интересно, в Codex CLI появилась поддержка скиллов.
+What's interesting is that Codex CLI now has support for skills.
 @@@
-Это штуки, которые мы уже вам рассказывали, появились изначально в Claude Code CLI.
+These are the things we've already told you about, which originally appeared in the Claude Code CLI.
 @@@
-И теперь эти скиллы перекочевывают во все остальные инструменты.
+And now these skills are migrating to all other tools.
 @@@
-Ты понимаешь, вообще типа стандартным становится.
+You understand, it's basically becoming the standard.
 @@@
-А да, мы про Anthropic, когда будем рассказывать, подробнее на этом остановимся, потому что действительно скиллы стали стандартом.
+Ah yes, when we talk about Anthropic, we'll focus on this in more detail, because skills have really become the standard.
 @@@
-Anthropic новый стандарт учредили.
+Anthropic established a new standard.
 @@@
-Называется Agent Skills.
+It's called Agent Skills.
 @@@
-И они теперь разлетаются.
+And now they're spreading everywhere.
 @@@
-Anthropic, я смотрю, умеют.
+Anthropic, I see, they know how to do things.
 @@@
-Да вообще пипец.
+Yeah, it's totally insane.
 @@@
-Стандартизировать всякое.
+Standardizing all sorts of things.
 @@@
-Это по Codex, по-моему, всё из основного.
+That's, I think, all the main stuff about Codex.
 @@@
-Давай теперь нырнём в более мирские новости OpenAI.
+Now let's dive into the more mundane news from OpenAI.
 @@@
-Это тоже странно, конечно.
+This is also strange, of course.
 @@@
-Мерзкие, мирские.
+Nasty, mundane.
 @@@
-Короче, внезапно OpenAI успел закорешиться ещё и с Диснеем.
+Anyway, suddenly OpenAI managed to buddy up with Disney as well.
 @@@
-Да как закорешиться так, как, не знаю, как никто вообще не ждал, особенно Диснея.
+Yeah, and they buddied up in a way that, I don't know, nobody expected, especially from Disney.
 @@@
-Потому что, как мы знаем, если попросить ChatGPT Пяти, да и Миджорни, и прочее, нарисовать там, например, не знаю...
+Because, as we know, if you ask ChatGPT Five, or Midjourney, and others, to draw, for example, I don't know...
 @@@
-Микки Мауса.
+Mickey Mouse.
 @@@
-Ну, Микки Мауса или там Стича из Лилуи Стич, да, он говорит, я не могу, я могу нарисовать что-то похожее.
+Well, Mickey Mouse or Stitch from Lilo & Stitch, right, it says, I can't, I can draw something similar.
 @@@
-То сейчас он сможет это нарисовать, потому что Дисней, блин, на три года отдаёт аж 200 персонажей Диснея, Марвела, Пиксара и Стар Ворс, OpenAI, с возможностью рисовать этих персонажей на картинках.
+But now it will be able to draw them, because Disney, damn it, is giving away as many as 200 characters from Disney, Marvel, Pixar, and Star Wars to OpenAI for three years, with the ability to draw these characters in pictures.
 @@@
-Мики Маус, Мини Маус, Лило, Стич, Ариэль, Бейлис, Красавица из Чудовища, Чудовище, Золушка, Симба, Муфаса...
+Mickey Mouse, Minnie Mouse, Lilo, Stitch, Ariel, Bayley, Belle from Beauty and the Beast, the Beast, Cinderella, Simba, Mufasa...
 @@@
-А за какие такие заслуги?
+And for what kind of merit?
 @@@
-Персонажи из Фроузен, Корпорации Монстров, Истории Игрушек, мультфильмов Вверх, Моана, а также Черная Пантера, Капитан Америка, Дэдпул, Грут, Железный Человек...
+Characters from Frozen, Monsters, Inc., Toy Story, the movie Up, Moana, as well as Black Panther, Captain America, Deadpool, Groot, Iron Man...
 @@@
-Все, все, все, у меня уже плохо стало.
+All of them, all of them, all of them, I'm starting to feel sick.
 @@@
-Ну, а...
+Well, but...
 @@@
-а...
+but...
 @@@
-а что взамен, типа?
+but what do they get in return, like?
 @@@
-Это же...
+This is...
 @@@
-Disney же на авторском праве съел полпланеты животных.
+Disney ate half the planet's animals with copyright.
 @@@
-Я не знаю, но, наверное, может, как реклама...
+I don't know, but maybe, perhaps, as advertising...
 @@@
-а может, будут рекламировать Disney+, в ChatGPT.
+or maybe they'll advertise Disney+ in ChatGPT.
 @@@
-При этом голоса внешности актеров не включаются, понятно.
+However, the actors' voices and likenesses are not included, obviously.
 @@@
-При этом они получат...
+In addition, they will get...
 @@@
-они будут делать в Disney+, сервисе подборку сгенерированных видосов.
+they will create a collection of generated videos on the Disney+ service.
 @@@
-Окей, но это не окупит такой щедрый шаг.
+Okay, but that won't cover such a generous move.
 @@@
-При этом еще Disney 1 миллиард инвестирует в OpenAI.
+On top of that, Disney is also investing 1 billion in OpenAI.
 @@@
-То есть кажется, что это прямой намек на то, что Disney будет и Хвост и в Гриву использовать технологию OpenAI для своих новых проектов.
+So it seems like a direct hint that Disney will be using OpenAI's technology for all it's worth in its new projects.
 @@@
-Ну, типа, зачем еще?
+I mean, like, what else for?
 @@@
-Я думаю, да, наверное, они получат какие-то там эксклюзивные компьютеры.
+I think, yeah, they'll probably get some exclusive computers there.
 @@@
-Ну, это Sora.
+Well, that's Sora.
 @@@
-Что еще?
+What else?
 @@@
-Им надо Sora?
+Do they need Sora?
 @@@
-Ну, Sora, либо какая-то Sora, которая новая, которой ни у кого еще нет.
+Well, Sora, or some kind of new Sora that nobody else has yet.
 @@@
-При этом они еще и акции получат, то есть они еще и заработать хотят.
+Plus, they'll also get shares, so they want to make money too.
 @@@
-Странно, мне так, не знаю, мне странными кажутся люди, которые хотят заработать на OpenAI, которые неизвестно еще, как зарабатывать будет, но интересно.
+It's strange, I don't know, people who want to make money off OpenAI seem strange to me, since it's still unknown how it will make money, but it's interesting.
 @@@
-А может быть, таким образом Disney через акции будет как-то влиять на OpenAI, знаешь, их как-то неявно рестриктить в моделях или там удерживать контроль современными инструментами, не давая другим компаниям использовать.
+Or maybe this is how Disney, through its shares, will somehow influence OpenAI, you know, implicitly restrict their models or maintain control over modern tools, preventing other companies from using them.
 @@@
-Может, там будут какие-то пункты такие, а не соглашение с другими крупными видео-вендорами.
+Maybe there will be some clauses like that, and not an agreement with other major video vendors.
 @@@
-Ну, посмотрим.
+Well, we'll see.
 @@@
-Вообще, обрати внимание...
+In general, pay attention...
 @@@
-Еще, кстати, Йода и Мандаловиц, чтобы добить список.
+Also, by the way, Yoda and the Mandalorian, to finish the list.
 @@@
-Обрати внимание, OpenAI за одну неделю заключила договора за две недели с компаниями, с которыми вы никогда в жизни не поверили, что это состоит в Disney и Adobe.
+Pay attention, OpenAI in one week made deals in two weeks with companies you'd never in your life believe it would happen with: Disney and Adobe.
 @@@
-Да.
+Yeah.
 @@@
-Ну и Amazon еще.
+And Amazon too.
 @@@
-Ну и Amazon еще.
+And Amazon too.
 @@@
-В целом мы могли поверить.
+Overall, we could have believed it.
 @@@
-Ладненько.
+Alrighty then.
 @@@
-Последнее по OpenAI на сегодня тоже больше к разработчикам, но и в целом вектор развития сервиса.
+The last thing on OpenAI for today is also more for developers, but it's also about the overall direction of the service's development.
 @@@
-Вообще, OpenAI так-то маржу свою сильно подняли.
+Actually, OpenAI has raised its margin significantly.
 @@@
-Там какое-то исследование видел, и Slim ChatGPT в прошлом году.
+I saw some study there, and Slim ChatGPT last year.
 @@@
-Типа там...
+Like, there...
 @@@
-Я боюсь в процентах ошибиться.
+I'm afraid to get the percentages wrong.
 @@@
-Там было что-то около 70% расходов на запросы пользовательские.
+It was something like 70% of expenses on user queries.
 @@@
-Они не покрывались пользовательскими деньгами.
+They weren't covered by user money.
 @@@
-Теперь это сократилось чуть ли не до 30%.
+Now that's been reduced to almost 30%.
 @@@
-То есть они прям нормально начинают сводить экономику.
+So they're really starting to balance their books properly.
 @@@
-С одной стороны.
+On one hand.
 @@@
-С другой стороны, это говорит, что запросы к API не так уж сильно вырастут, даже когда в ноль начнет все уходить.
+On the other hand, this means that API requests won't grow that much, even when they start to break even.
 @@@
-То есть еще где-то в половинку.
+So, maybe by about half.
 @@@
-Ну а новость в том, что OpenAI начали прием заявок на публикацию приложений в части GPT.
+Well, the news is that OpenAI has started accepting applications for publishing apps in the GPT section.
 @@@
-И запускают каталог приложений внутри чат-бота.
+And they are launching an application catalog inside the chatbot.
 @@@
-И у меня тут, наверное, как и у всех, возникнет вопрос, а зачем мы делали GPTs?
+And here, I guess, like everyone else, I have a question: why did we make GPTs?
 @@@
-Если это очень похоже.
+If this is very similar.
 @@@
-И где эти GPTs?
+And where are these GPTs?
 @@@
-Ну типа я GPTs пользуюсь до сих пор.
+I mean, I still use GPTs.
 @@@
-И я, честно говоря, не знаю, если их удалят.
+And I honestly don't know, if they get deleted.
 @@@
-Ну будет неприятно.
+Well, it would be unpleasant.
 @@@
-Либо их может как-то конвертируют в аппликации.
+Or maybe they'll somehow be converted into applications.
 @@@
-Потому что аппликации в приложении, это другая штука.
+Because applications in the app, that's a different thing.
 @@@
-Это штука, которая пилится на прям разработчиками прям вручную.
+It's something that is built directly by developers, right by hand.
 @@@
-Через SDK, вот Adobe интеграция через приложение делается.
+Through an SDK, like the Adobe integration is done through an application.
 @@@
-То есть там можно прям целый огород, целое программное обеспечение пилить.
+Meaning, you can build a whole complex system, a whole piece of software.
 @@@
-И потом он еще из Marketplace будет встраиваться, и в чат можно будет его добавлять.
+And then it will be embedded from the Marketplace, and you can add it to the chat.
 @@@
-Это не просто GPT.
+It's not just a GPT.
 @@@
-При этом они сказали, что первые приложения открытые уже будут в следующем году, можно будет накрикать себе.
+They also said that the first open applications will be available next year, you can grab them for yourself.
 @@@
-И, конечно же, там должен появиться Marketplace.
+And, of course, a Marketplace should appear there.
 @@@
-Ну, зачем еще?
+Well, what else for?
 @@@
-Ну, кто бы сомневался.
+Well, who would've doubted it.
 @@@
-При этом про GPTs тоже говорили, помнишь, когда говорили, что там Marketplace будет, но так и не завелось.
+They also talked about a Marketplace for GPTs, remember, when they said there would be one, but it never took off.
 @@@
-Не, ну почему-то...
+No, well, for some reason...
 @@@
-Нет marketplace в GPTs.
+There is no marketplace in GPTs.
 @@@
-Есть marketplace в GPTs.
+There is a marketplace in GPTs.
 @@@
-В смысле?
+What do you mean?
 @@@
-Ну, в смысле, там же каталог есть большой.
+Well, I mean, there's a big catalog there.
 @@@
-Нет, marketplace — это когда деньги тебе платят за использование.
+No, a marketplace is when you get paid for usage.
 @@@
-А, ты в этом имеешь?
+Ah, you mean in that sense?
 @@@
-Ну, типа, да.
+Well, yeah, basically.
 @@@
-Ты можешь зарабатывать, поэтому он и маркет.
+You can earn money, that's why it's a market.
 @@@
-Ты продаешь Это каталоги.
+You're selling. Those are catalogs.
 @@@
-Ну, посмотрим, посмотрим.
+Well, we'll see, we'll see.
 @@@
-Если это поможет им рекламу контекстную не бомбить, которая, я думаю, скоро появится, то...
+If it helps them avoid bombarding us with contextual ads, which I think will appear soon, then...
 @@@
-Да, на 100% появится и в любом случае.
+Yeah, it's 100% going to appear anyway.
 @@@
-Да.
+Yeah.
 @@@
-Ладненько, давай к следующей большой рыбе.
+Alright, let's move on to the next big fish.
 @@@
-Да, следующая большая рыба у нас, это, конечно же, Google.
+Yes, our next big fish is, of course, Google.
 @@@
-Вот у Google тоже новостей там подкопилось.
+Google also has some news piled up.
 @@@
-В общем, Google выпустил Gemini 3 Flash.
+So, Google released Gemini 3 Flash.
 @@@
-Не Pro, а Flash Pro.
+Not Pro, but Flash Pro.
 @@@
-Мы в прошлом выпуске рассказывали.
+We talked about it in the last episode.
 @@@
-Вот она стала дефолтной моделью.
+So it became the default model.
 @@@
-И в Gemini, и в Search.
+Both in Gemini and in Search.
 @@@
-И она бесплатная.
+And it's free.
 @@@
-Я не помню, есть ли там лимиты на нее какие-то, но, по-моему, даже...
+I don't remember if there are any limits on it, but I think even...
 @@@
-Не, она бесплатная пока только в Gemini.
+No, it's only free in Gemini for now.
 @@@
-В смысле, да.
+I mean, yes.
 @@@
-В смысле, через API она платная.
+Meaning, through the API it's paid.
 @@@
-Нет, ну, понятное дело, что через API платная.
+No, well, obviously it's paid through the API.
 @@@
-Да-да-да.
+Yeah, yeah, yeah.
 @@@
-Вот.
+There.
 @@@
-Ну, и она достаточно хорошо себя показывает на бенчах, чуть ли не на уровне 2,5 Pro.
+Well, and it performs quite well on benchmarks, almost at the level of 2.5 Pro.
 @@@
-Она лучше 2,5 Pro.
+It's better than 2.5 Pro.
 @@@
-При этом быстрее и дешевле.
+And it's faster and cheaper.
 @@@
-Она лучше, она дешевле...
+It's better, it's cheaper...
 @@@
-она дешевле Gemini 3 Pro в 4 раза.
+it's 4 times cheaper than Gemini 3 Pro.
 @@@
-Ну, это логично.
+Well, that's logical.
 @@@
-Flash, как бы это типа младшая версия в модельном ряду.
+Flash is, like, the junior version in the model lineup.
 @@@
-При этом она работает лучше Gemini 2.5 Pro, которая была флагманом предыдущим.
+And it performs better than Gemini 2.5 Pro, which was the previous flagship.
 @@@
-И на бенчмарках, я смотрел, она даже на некоторых бенчмарках обгоняет 3 Pro.
+And on benchmarks, I looked, it even surpasses 3 Pro on some benchmarks.
 @@@
-Там какие-то вообще левые бенчмарки, но тем не менее.
+Some really obscure benchmarks, but still.
 @@@
-Прям...
+Like, really...
 @@@
-И вот все это в совокупности тоже дает повод людям, которые слухи разводят, говорит, что Gemini 3 Pro это какой-то ранний чекпоинт, ранний срез какой-то более мощной модели, а GPT-3 Flash это тоже ее срез, но только мы не мощные.
+And all this combined also gives reason for people who spread rumors to say that Gemini 3 Pro is some early checkpoint, an early slice of a more powerful model, and GPT-3 Flash is also a slice of it, but just not the powerful one.
 @@@
-Мы посмотрим.
+We'll see.
 @@@
-Ну, вообще, Google начинает к концу года какой-то клоунадой немножко заниматься, потому что следующая новость у них как раз таки про клоунаду слегка.
+Well, in general, Google is starting to engage in a bit of clownery towards the end of the year, because their next news is slightly about clownery.
 @@@
-Надеюсь, не скатится он туда.
+I hope it doesn't slide into that.
 @@@
-В общем, они выкатили новый инструмент, называется Conductor.
+So, they rolled out a new tool called Conductor.
 @@@
-Нажми на тормоза.
+Hit the brakes.
 @@@
-Маленький, родный.
+Little one, dear.
 @@@
-С последним приветом, молодой здесь.
+With a last hello, young one here.
 @@@
-В общем, Conductor — это расширение для Gemini CLI, для терминального интерфейса Gemini, которое позволяет с Gemini CLI работать в Spec-Driven Development стилистике.
+So, Conductor is an extension for the Gemini CLI, for the Gemini terminal interface, which allows working with the Gemini CLI in a Spec-Driven Development style.
 @@@
-То есть не просто промпты писать и код генерить, а ты сначала составляешь специализацию (спецификацию)
+Meaning, you don't just write prompts and generate code, but first, you create a specialization (specification)
 @@@
-с планом, с архитектурным дизайном, с кучей разных описаний.
+with a plan, an architectural design, with a bunch of different descriptions.
 @@@
-И потом, когда у тебя готовы эти Spec есть, по ним уже агент идет и делает задачи, выполняет таски и записывает их.
+And then, when you have these Specs ready, an agent goes through them and does tasks, completes tasks, and records them.
 @@@
-Это достаточно штука, уже укоренившаяся за последние месяцы в разработке с AI, Spec-Driven Development называется.
+This is something that has become quite established in AI development over the last few months, it's called Spec-Driven Development.
 @@@
-Она есть нативно поддерживающаяся там в Qoder, в Kiro IDE, это от VS, IDE.
+It's natively supported in tools like Qoder, in Kiro IDE, which is an IDE from VS.
 @@@
-Есть имплементация open-source, это GitHub spec-kit, BMAD, куча их всяких разных.
+There are open-source implementations, like GitHub spec-kit, BMAD, a whole bunch of different ones.
 @@@
-Это целая сфера уже устоявшаяся.
+It's a whole established field already.
 @@@
-Причем раньше в программировании тоже было Spec-Driven Development, просто про него мало говорили.
+And Spec-Driven Development also existed in programming before, it just wasn't talked about much.
 @@@
-Это была штука чуть менее популярная, чем TDD, а TDD, мы знаем, тоже недостаточно популярная, к сожалению.
+It was a bit less popular than TDD, and TDD, as we know, is also not popular enough, unfortunately.
 @@@
-И вот Google такие пришли и говорят, вот мы даем вам Conductor, он делает Spec через Gemini CLI.
+And so Google comes along and says, here, we're giving you Conductor, it creates Specs through the Gemini CLI.
 @@@
-Ну, пожалуйста, родимые, не называйте это Spec-Driven Development.
+But please, dears, don't call it Spec-Driven Development.
 @@@
-Это называется Context-Driven Development.
+It's called Context-Driven Development.
 @@@
-Я такой, так,
+And I'm like, okay,
 @@@
-ага, а в чем разница?
+uh-huh, what's the difference?
 @@@
-Начинаю читать описание, они там прямо в описании пишут.
+I start reading the description, and they write right in the description.
 @@@
-Conductor создаёт Spec, на основании которых закрывает таски.
+Conductor creates Specs based on which it closes tasks.
 @@@
-И в итоге, как я ни пытался, я там с чуваками в чате обсуждал, через ChatGPT гонял, ну, кажется, будто бы просто новояз.
+And in the end, no matter how I tried, I discussed it with guys in a chat, ran it through ChatGPT, well, it just seems like newspeak.
 @@@
-Google придумывает там, где он уже есть.
+Google is inventing terms where they already exist.
 @@@
-Они как бы делают акцент на том, что на самом деле Spec-Driven Development — это термин из прошлого программирования, он путает людей, а вы работаете с моделями, а там есть контекст, поэтому это Context-Driven Development.
+They kind of emphasize that Spec-Driven Development is actually a term from past programming, it confuses people, but you are working with models, and there's context there, so it's Context-Driven Development.
 @@@
-Но они не подумали, что, как бы, Context-Driven Development, например, путается с Context-Инженерией.
+But they didn't consider that, like, Context-Driven Development, for example, gets confused with Context Engineering.
 @@@
-Вот люди, которые первый раз слышат Context-Инженерия, Context-Driven Development.
+So, people who hear Context Engineering, Context-Driven Development for the first time.
 @@@
-Мне кажется, для них это одинаковое поле непонятные вещи, что-то из разработки.
+It seems to me that for them, it's the same field of incomprehensible things, something from development.
 @@@
-Плюс-минус, да, я думаю, плюс-минус.
+More or less, yeah, I think, more or less.
