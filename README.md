@@ -75,7 +75,7 @@ Generate text from the audio track.
 
 ### 8. Verification
 - **Integrity**: Create a hash sum of the audio file (using 7z) to ensure subtitle synchronization.
-- **Review**: View double subtitles in a suitable player (e.g., Chrome with [asbplayer](https://github.com/killergerbah/asbplayer) plugin).
+- **Review**: View double subtitles in a suitable player (e.g., Chrome with [asbplayer](https://github.com/killergerbah/asbplayer) plugin, or [PotPlayer](https://github.com/Pot-Player) on Windows).
 
 ### 9. YouTube Studio Upload
 Finalize the process by making the subtitles available on YouTube.
