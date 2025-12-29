@@ -8,8 +8,10 @@ Check the [Release Notes](release-notes.md) for the latest updates.
 
 ## Table of Contents
 
-- [Directory Overview](#directory-overview)
-- [Subtitle Creation Process](#subtitle-creation-process)
+- [Subtitles Repository](#subtitles-repository)
+  - [Table of Contents](#table-of-contents)
+  - [Directory Overview](#directory-overview)
+  - [Subtitle Creation Process](#subtitle-creation-process)
     - [1. Acquisition](#1-acquisition)
     - [2. Slicing (Optional)](#2-slicing-optional)
     - [3. Recognition](#3-recognition)
@@ -20,9 +22,9 @@ Check the [Release Notes](release-notes.md) for the latest updates.
     - [8. Verification](#8-verification)
     - [9. YouTube Studio Upload](#9-youtube-studio-upload)
     - [10. Learning Integration (Anki)](#10-learning-integration-anki)
-- [Notes](#notes)
-- [Kardenwort Ecosystem](#kardenwort-ecosystem)
-- [License](#license)
+  - [Notes](#notes)
+  - [Kardenwort Ecosystem](#kardenwort-ecosystem)
+  - [License](#license)
 
 ## Directory Overview
 

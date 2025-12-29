@@ -388,7 +388,7 @@ Nevertheless, yes, you can treat yourself.
 
 98
 00:05:11,500 --> 00:05:17,030
-We have a True Crime podcast, which, damn, I wrote myself with Chat GPT.
+We have a True Crime podcast, which, damn, I wrote myself with ChatGPT.
 
 99
 00:05:17,640 --> 00:05:18,050
